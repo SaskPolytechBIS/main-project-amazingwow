@@ -1,5 +1,3 @@
 /// @description Insert description here
-cost = 5;
-range = 500;
-
-
+hp -= 20;
+with(other) instance_destroy();

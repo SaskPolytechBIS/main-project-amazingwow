@@ -1,6 +1,9 @@
 /// @description Insert description here
 draw_self();
-draw_circle(x, y, range, true);
+if (mouse_over(x, y, sprite_width, sprite_height)){
+	draw_circle(x, y, range, true);
+}
+
 
 var _enemy = instance_nearest(x, y, obj_enemy_brig);
 
