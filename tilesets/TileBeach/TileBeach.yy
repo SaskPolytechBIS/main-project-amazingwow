@@ -1,0 +1,45 @@
+{
+  "resourceType": "GMTileSet",
+  "resourceVersion": "1.0",
+  "name": "TileBeach",
+  "autoTileSets": [],
+  "macroPageTiles": {
+    "SerialiseHeight": 0,
+    "SerialiseWidth": 0,
+    "TileSerialiseData": [],
+  },
+  "out_columns": 1,
+  "out_tilehborder": 2,
+  "out_tilevborder": 2,
+  "parent": {
+    "name": "Tileset",
+    "path": "folders/Sprites/Surfaces/Tileset.yy",
+  },
+  "spriteId": {
+    "name": "spr_beach",
+    "path": "sprites/spr_beach/spr_beach.yy",
+  },
+  "spriteNoExport": false,
+  "textureGroupId": {
+    "name": "Default",
+    "path": "texturegroups/Default",
+  },
+  "tile_count": 4,
+  "tileAnimation": {
+    "FrameData": [
+      0,
+      1,
+      2,
+      3,
+    ],
+    "SerialiseFrameCount": 1,
+  },
+  "tileAnimationFrames": [],
+  "tileAnimationSpeed": 15.0,
+  "tileHeight": 256,
+  "tilehsep": 0,
+  "tilevsep": 0,
+  "tileWidth": 9999,
+  "tilexoff": 0,
+  "tileyoff": 0,
+}
