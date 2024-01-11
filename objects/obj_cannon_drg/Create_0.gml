@@ -1,4 +1,4 @@
 /// @description Insert description here
-angle = 0;
+col = c_white;
 
 
