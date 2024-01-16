@@ -15,7 +15,10 @@
     "name": "Tileset",
     "path": "folders/Sprites/Surfaces/Tileset.yy",
   },
-  "spriteId": null,
+  "spriteId": {
+    "name": "spr_beach",
+    "path": "sprites/spr_beach/spr_beach.yy",
+  },
   "spriteNoExport": false,
   "textureGroupId": {
     "name": "Default",
