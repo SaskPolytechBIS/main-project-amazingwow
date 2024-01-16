@@ -1,20 +1,15 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "obj_cannonball",
-  "eventList": [
-    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,},
-  ],
+  "name": "obj_bullet_parent",
+  "eventList": [],
   "managed": true,
   "overriddenProperties": [],
   "parent": {
     "name": "Bullets",
     "path": "folders/Objects/Bullets.yy",
   },
-  "parentObjectId": {
-    "name": "obj_bullet_parent",
-    "path": "objects/obj_bullet_parent/obj_bullet_parent.yy",
-  },
+  "parentObjectId": null,
   "persistent": false,
   "physicsAngularDamping": 0.1,
   "physicsDensity": 0.5,
@@ -30,10 +25,7 @@
   "physicsStartAwake": true,
   "properties": [],
   "solid": false,
-  "spriteId": {
-    "name": "spr_cannonball",
-    "path": "sprites/spr_cannonball/spr_cannonball.yy",
-  },
+  "spriteId": null,
   "spriteMaskId": null,
   "visible": true,
 }

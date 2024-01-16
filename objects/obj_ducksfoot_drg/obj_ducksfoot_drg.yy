@@ -1,20 +1,20 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "obj_cannonball",
+  "name": "obj_ducksfoot_drg",
   "eventList": [
+    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,},
+    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":4,"eventType":6,"isDnD":false,},
+    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":0,"eventType":8,"isDnD":false,},
     {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,},
   ],
   "managed": true,
   "overriddenProperties": [],
   "parent": {
-    "name": "Bullets",
-    "path": "folders/Objects/Bullets.yy",
+    "name": "Tower Drag",
+    "path": "folders/Objects/Tower Drag.yy",
   },
-  "parentObjectId": {
-    "name": "obj_bullet_parent",
-    "path": "objects/obj_bullet_parent/obj_bullet_parent.yy",
-  },
+  "parentObjectId": null,
   "persistent": false,
   "physicsAngularDamping": 0.1,
   "physicsDensity": 0.5,
@@ -31,8 +31,8 @@
   "properties": [],
   "solid": false,
   "spriteId": {
-    "name": "spr_cannonball",
-    "path": "sprites/spr_cannonball/spr_cannonball.yy",
+    "name": "spr_cannon_ducksfoot",
+    "path": "sprites/spr_cannon_ducksfoot/spr_cannon_ducksfoot.yy",
   },
   "spriteMaskId": null,
   "visible": true,
