@@ -1,0 +1,17 @@
+whale.png
+size:301,66
+filter:Linear,Linear
+pma:true
+scale:0.5
+whale_body
+bounds:2,2,62,175
+offsets:1,4,64,180
+rotate:90
+whale_breach
+bounds:265,30,34,34
+whale_fin
+bounds:179,11,44,53
+offsets:1,0,45,53
+whale_ripple1
+bounds:225,25,38,39
+offsets:0,0,39,39
