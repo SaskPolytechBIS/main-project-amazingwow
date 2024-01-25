@@ -130,6 +130,7 @@
     {"id":{"name":"spr_ship_gunboat_damaged","path":"sprites/spr_ship_gunboat_damaged/spr_ship_gunboat_damaged.yy",},},
     {"id":{"name":"obj_tower_parent","path":"objects/obj_tower_parent/obj_tower_parent.yy",},},
     {"id":{"name":"obj_ducksfootball","path":"objects/obj_ducksfootball/obj_ducksfootball.yy",},},
+    {"id":{"name":"fib","path":"scripts/fib/fib.yy",},},
     {"id":{"name":"ts_beach","path":"tilesets/ts_beach/ts_beach.yy",},},
     {"id":{"name":"spr_cannonball_trail","path":"sprites/spr_cannonball_trail/spr_cannonball_trail.yy",},},
     {"id":{"name":"spr_cannon_ducksfoot","path":"sprites/spr_cannon_ducksfoot/spr_cannon_ducksfoot.yy",},},

@@ -92,6 +92,7 @@
     {"name":"spr_ship_gunboat_damaged","order":1,"path":"sprites/spr_ship_gunboat_damaged/spr_ship_gunboat_damaged.yy",},
     {"name":"obj_tower_parent","order":1,"path":"objects/obj_tower_parent/obj_tower_parent.yy",},
     {"name":"obj_ducksfootball","order":1,"path":"objects/obj_ducksfootball/obj_ducksfootball.yy",},
+    {"name":"fib","order":1,"path":"scripts/fib/fib.yy",},
     {"name":"ts_beach","order":2,"path":"tilesets/ts_beach/ts_beach.yy",},
     {"name":"spr_cannonball_trail","order":1,"path":"sprites/spr_cannonball_trail/spr_cannonball_trail.yy",},
     {"name":"spr_cannon_ducksfoot","order":1,"path":"sprites/spr_cannon_ducksfoot/spr_cannon_ducksfoot.yy",},

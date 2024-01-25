@@ -1,5 +1,5 @@
 /// @description Insert description here
-cost = 50;
-range = 500;
+cost = 10;
+range = 300;
 
 

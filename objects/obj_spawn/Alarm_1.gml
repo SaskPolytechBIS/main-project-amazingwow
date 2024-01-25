@@ -1,9 +1,12 @@
 /// @description Insert description here
-if (instance_number(obj_enemy_brig) <= 0){
+if (instance_number(obj_enemy_parent) <= 0){
 	spawn_count = 0;
-	spawn_amount *= 2;
+	//spawn_amount *= 2;
+	brig_spawn_init++;
+	gunboat_spawn_init++;
+	manowar_spawn_init++
 	global.level++;
-	global.hp *= 2;
+	global.hp += 100;
 	global.spd += 0.1;
 	spawn_rate -= 2.5;
 	alarm[0] = spawn_rate;

@@ -15,7 +15,9 @@ if (_enemy != noone){
 		}
 		
 		obj_to_shoot = _enemy;
+		draw_line(x, y-15, _enemy.x - 240, _enemy.y - 240);
 		draw_line(x, y, _enemy.x, _enemy.y);
+		draw_line(x, y+15, _enemy.x + 240, _enemy.y + 240);
 	}
 	else {
 		shooting = false;
