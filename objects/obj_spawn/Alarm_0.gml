@@ -1,5 +1,6 @@
 /// @description Insert description here
 // You can write your code in this editor
+<<<<<<< HEAD
 var _brig_spawn_amount = fib(brig_spawn_init);
 var _gunboat_spawn_amount = fib(gunboat_spawn_init);
 var _manowar_spawn_amount = fib(manowar_spawn_init);
@@ -28,3 +29,11 @@ if(spawn_count < total_spawn_amount){
 }
 
 
+=======
+if(spawn_count < spawn_amount){
+	instance_create_depth(x,y,-1,obj_enemy_brig);
+	spawn_count++;
+	alarm[0] = spawn_rate;
+}
+
+>>>>>>> Mapbranch
