@@ -1,8 +1,8 @@
 {
   "resourceType": "GMRoom",
   "resourceVersion": "1.0",
-  "name": "Room5",
-  "creationCodeFile": "",
+  "name": "rm_gameover",
+  "creationCodeFile": "rooms/rm_gameover/RoomCreationCode.gml",
   "inheritCode": false,
   "inheritCreationOrder": false,
   "inheritLayers": false,
