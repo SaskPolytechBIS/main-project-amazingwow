@@ -33,10 +33,7 @@
   "physicsStartAwake": true,
   "properties": [],
   "solid": false,
-  "spriteId": {
-    "name": "spr_mortar",
-    "path": "sprites/spr_mortar/spr_mortar.yy",
-  },
+  "spriteId": null,
   "spriteMaskId": null,
   "visible": true,
 }
