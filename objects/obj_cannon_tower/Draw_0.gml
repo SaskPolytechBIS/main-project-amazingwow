@@ -4,12 +4,8 @@ if (mouse_over(x, y, sprite_width, sprite_height)){
 	draw_circle(x, y, range, true);
 }
 
-
-<<<<<<< HEAD
 var _enemy = instance_nearest(x, y, obj_enemy_parent);
-=======
-var _enemy = instance_nearest(x, y, obj_enemy_brig);
->>>>>>> Mapbranch
+
 
 if (_enemy != noone){
 	if (point_distance(x, y, _enemy.x, _enemy.y) <= range){
