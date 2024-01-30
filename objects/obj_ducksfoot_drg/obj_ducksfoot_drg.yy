@@ -30,10 +30,7 @@
   "physicsStartAwake": true,
   "properties": [],
   "solid": false,
-  "spriteId": {
-    "name": "spr_cannon_ducksfoot",
-    "path": "sprites/spr_cannon_ducksfoot/spr_cannon_ducksfoot.yy",
-  },
+  "spriteId": null,
   "spriteMaskId": null,
   "visible": true,
 }
