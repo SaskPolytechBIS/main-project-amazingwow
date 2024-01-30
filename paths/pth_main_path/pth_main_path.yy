@@ -5,8 +5,8 @@
   "closed": false,
   "kind": 1,
   "parent": {
-    "name": "AETHERIA",
-    "path": "AETHERIA.yyp",
+    "name": "main-project-amazingwow",
+    "path": "main-project-amazingwow.yyp",
   },
   "points": [
     {"speed":100.0,"x":640.0,"y":-64.0,},

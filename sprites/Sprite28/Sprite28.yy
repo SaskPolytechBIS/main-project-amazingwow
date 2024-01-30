@@ -25,8 +25,8 @@
   "nineSlice": null,
   "origin": 0,
   "parent": {
-    "name": "AETHERIA",
-    "path": "AETHERIA.yyp",
+    "name": "main-project-amazingwow",
+    "path": "main-project-amazingwow.yyp",
   },
   "preMultiplyAlpha": false,
   "sequence": {
