@@ -7,3 +7,4 @@ draw_text_transformed(10, 90, "Enemy Hp: " + string(global.hp), 3, 3, 0);
 draw_text_transformed(10, 130, "Spawn amt: " + string(total_spawn_amount), 3, 3, 0);
 draw_set_color(c_white);
 
+// false comment for forcing git commit
