@@ -6,7 +6,10 @@
     {"name":"Notes","order":13,"path":"folders/Notes.yy",},
     {"name":"Objects","order":9,"path":"folders/Objects.yy",},
     {"name":"Bullets","order":6,"path":"folders/Objects/Bullets.yy",},
+<<<<<<< HEAD
     {"name":"Enemies","order":8,"path":"folders/Objects/Enemies.yy",},
+=======
+>>>>>>> Mapbranch
     {"name":"Tower Clickables","order":4,"path":"folders/Objects/Tower Clickables.yy",},
     {"name":"Tower Drag","order":5,"path":"folders/Objects/Tower Drag.yy",},
     {"name":"Towers","order":3,"path":"folders/Objects/Towers.yy",},
@@ -34,10 +37,13 @@
     {"name":"Pick Ups","order":7,"path":"folders/Sprites/Pick Ups.yy",},
     {"name":"Ship","order":2,"path":"folders/Sprites/Ship.yy",},
     {"name":"Brig","order":2,"path":"folders/Sprites/Ship/Brig.yy",},
+<<<<<<< HEAD
     {"name":"Frigate","order":3,"path":"folders/Sprites/Ship/Frigate.yy",},
     {"name":"Gunboat","order":4,"path":"folders/Sprites/Ship/Gunboat.yy",},
     {"name":"Man of War","order":5,"path":"folders/Sprites/Ship/Man of War.yy",},
     {"name":"Schooner","order":6,"path":"folders/Sprites/Ship/Schooner.yy",},
+=======
+>>>>>>> Mapbranch
     {"name":"Structures","order":6,"path":"folders/Sprites/Structures.yy",},
     {"name":"Surfaces","order":1,"path":"folders/Sprites/Surfaces.yy",},
     {"name":"Tileset","order":1,"path":"folders/Sprites/Surfaces/Tileset.yy",},
@@ -59,13 +65,19 @@
     {"name":"spr_mortar","order":2,"path":"sprites/spr_mortar/spr_mortar.yy",},
     {"name":"sfx_cannon_fire_03","order":2,"path":"sounds/sfx_cannon_fire_03/sfx_cannon_fire_03.yy",},
     {"name":"spr_cannonball","order":3,"path":"sprites/spr_cannonball/spr_cannonball.yy",},
+<<<<<<< HEAD
     {"name":"spr_ship_frigate_damaged","order":1,"path":"sprites/spr_ship_frigate_damaged/spr_ship_frigate_damaged.yy",},
     {"name":"spr_rocks2","order":1,"path":"sprites/spr_rocks2/spr_rocks2.yy",},
     {"name":"obj_enemy_gunboat","order":1,"path":"objects/obj_enemy_gunboat/obj_enemy_gunboat.yy",},
+=======
+    {"name":"Room2","order":1,"path":"rooms/Room2/Room2.yy",},
+    {"name":"spr_rocks2","order":1,"path":"sprites/spr_rocks2/spr_rocks2.yy",},
+>>>>>>> Mapbranch
     {"name":"pth_main_path","order":16,"path":"paths/pth_main_path/pth_main_path.yy",},
     {"name":"Sprite28","order":17,"path":"sprites/Sprite28/Sprite28.yy",},
     {"name":"spr_chainshot","order":4,"path":"sprites/spr_chainshot/spr_chainshot.yy",},
     {"name":"sfx_cannon_fire_02","order":1,"path":"sounds/sfx_cannon_fire_02/sfx_cannon_fire_02.yy",},
+<<<<<<< HEAD
     {"name":"spr_ship_schooner_damaged","order":1,"path":"sprites/spr_ship_schooner_damaged/spr_ship_schooner_damaged.yy",},
     {"name":"MP3_Maritime_Mayhem_Track2_Win","order":2,"path":"sounds/MP3_Maritime_Mayhem_Track2_Win/MP3_Maritime_Mayhem_Track2_Win.yy",},
     {"name":"spr_Grass","order":2,"path":"sprites/spr_Grass/spr_Grass.yy",},
@@ -78,12 +90,20 @@
     {"name":"obj_bullet_parent","order":3,"path":"objects/obj_bullet_parent/obj_bullet_parent.yy",},
     {"name":"obj_mortarball","order":2,"path":"objects/obj_mortarball/obj_mortarball.yy",},
     {"name":"obj_enemy_parent","order":3,"path":"objects/obj_enemy_parent/obj_enemy_parent.yy",},
+=======
+    {"name":"MP3_Maritime_Mayhem_Track2_Win","order":2,"path":"sounds/MP3_Maritime_Mayhem_Track2_Win/MP3_Maritime_Mayhem_Track2_Win.yy",},
+    {"name":"spr_Grass","order":2,"path":"sprites/spr_Grass/spr_Grass.yy",},
+    {"name":"spr_wall_bottom","order":1,"path":"sprites/spr_wall_bottom/spr_wall_bottom.yy",},
+    {"name":"obj_placeable_region","order":7,"path":"objects/obj_placeable_region/obj_placeable_region.yy",},
+    {"name":"TileBeach","order":5,"path":"tilesets/TileBeach/TileBeach.yy",},
+>>>>>>> Mapbranch
     {"name":"obj_spawn","order":1,"path":"objects/obj_spawn/obj_spawn.yy",},
     {"name":"MP3_Maritime_Mayhem_Track1_Win","order":2,"path":"sounds/MP3_Maritime_Mayhem_Track1_Win/MP3_Maritime_Mayhem_Track1_Win.yy",},
     {"name":"sfx_collision_shot_to_water_01","order":3,"path":"sounds/sfx_collision_shot_to_water_01/sfx_collision_shot_to_water_01.yy",},
     {"name":"spr_icon_duckfoot","order":1,"path":"sprites/spr_icon_duckfoot/spr_icon_duckfoot.yy",},
     {"name":"spr_ship_brig_destroyed","order":1,"path":"sprites/spr_ship_brig_destroyed/spr_ship_brig_destroyed.yy",},
     {"name":"spr_cannonball_hit","order":1,"path":"sprites/spr_cannonball_hit/spr_cannonball_hit.yy",},
+<<<<<<< HEAD
     {"name":"obj_mortar_clck","order":2,"path":"objects/obj_mortar_clck/obj_mortar_clck.yy",},
     {"name":"spr_wall_top","order":3,"path":"sprites/spr_wall_top/spr_wall_top.yy",},
     {"name":"obj_mortar_drg","order":2,"path":"objects/obj_mortar_drg/obj_mortar_drg.yy",},
@@ -97,12 +117,23 @@
     {"name":"spr_cannonball_trail","order":1,"path":"sprites/spr_cannonball_trail/spr_cannonball_trail.yy",},
     {"name":"spr_cannon_ducksfoot","order":1,"path":"sprites/spr_cannon_ducksfoot/spr_cannon_ducksfoot.yy",},
     {"name":"obj_ducksfoot_drg","order":1,"path":"objects/obj_ducksfoot_drg/obj_ducksfoot_drg.yy",},
+=======
+    {"name":"spr_wall_top","order":3,"path":"sprites/spr_wall_top/spr_wall_top.yy",},
+    {"name":"MP3_Maritime_Mayhem_Track1_Lose","order":1,"path":"sounds/MP3_Maritime_Mayhem_Track1_Lose/MP3_Maritime_Mayhem_Track1_Lose.yy",},
+    {"name":"obj_tower_parent","order":1,"path":"objects/obj_tower_parent/obj_tower_parent.yy",},
+    {"name":"ts_beach","order":2,"path":"tilesets/ts_beach/ts_beach.yy",},
+    {"name":"spr_cannonball_trail","order":1,"path":"sprites/spr_cannonball_trail/spr_cannonball_trail.yy",},
+    {"name":"spr_cannon_ducksfoot","order":1,"path":"sprites/spr_cannon_ducksfoot/spr_cannon_ducksfoot.yy",},
+>>>>>>> Mapbranch
     {"name":"sfx_collision_boat_to_boat_01","order":1,"path":"sounds/sfx_collision_boat_to_boat_01/sfx_collision_boat_to_boat_01.yy",},
     {"name":"spr_beach","order":4,"path":"sprites/spr_beach/spr_beach.yy",},
     {"name":"spr_Water","order":5,"path":"sprites/spr_Water/spr_Water.yy",},
     {"name":"ts_water","order":6,"path":"tilesets/ts_water/ts_water.yy",},
     {"name":"spr_wall_mid","order":2,"path":"sprites/spr_wall_mid/spr_wall_mid.yy",},
+<<<<<<< HEAD
     {"name":"spr_ship_manofwar_damaged","order":1,"path":"sprites/spr_ship_manofwar_damaged/spr_ship_manofwar_damaged.yy",},
+=======
+>>>>>>> Mapbranch
     {"name":"sfx_collision_shot_to_boat_01","order":2,"path":"sounds/sfx_collision_shot_to_boat_01/sfx_collision_shot_to_boat_01.yy",},
     {"name":"sfx_environment_seabirds_02","order":1,"path":"sounds/sfx_environment_seabirds_02/sfx_environment_seabirds_02.yy",},
   ],
