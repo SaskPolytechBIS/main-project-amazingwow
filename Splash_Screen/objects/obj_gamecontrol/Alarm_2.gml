@@ -1,3 +1,4 @@
+<<<<<<< Updated upstream
 /// @description Show Levels
 if(_display == "Ready")
 {
@@ -9,6 +10,11 @@ else
 	_display = "Level " + string(global._level);
 	alarm[3] = delay_time
 }
+=======
+/// @description Insert description here
+// You can write your code in this editor
+
+>>>>>>> Stashed changes
 
 
 

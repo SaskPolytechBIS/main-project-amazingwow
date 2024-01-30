@@ -22,6 +22,23 @@ function fade_inout()
 				alarm[1] =_splash_delay;
 			}
 			#endregion ===================================
+			
+			#region Credit Section =========================
+			if(global.game_section == "credit")
+			{
+				obj_creditcontrol.alarm[1] = splash_delay;
+			}
+			#endregion ===================================
+			#region Game Section =========================
+			if(global.game_section == "game")
+			{
+				with (obj_gamecontrol)
+				{ start = true;
+					alarm[2] = splash_delay;
+					_display = "Ready";
+				}
+			}
+			#endregion ===================================
 		}
 	}
 	
@@ -53,6 +70,12 @@ function fade_inout()
 				{
 					room_goto(rm_credit);
 				}
+			}
+			#endregion ===================================
+			#region Splash Section =========================
+			if(global.game_section == "credit")
+			{
+				obj_creditcontrol.alarm[2] = 60;
 			}
 			#endregion ===================================
 		}
