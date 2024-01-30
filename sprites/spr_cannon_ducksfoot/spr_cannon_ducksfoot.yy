@@ -22,6 +22,7 @@
   "layers": [
     {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"9f52aea2-253b-46f5-b31c-5755c1e1cfe5","blendMode":0,"displayName":"default","isLocked":false,"opacity":100.0,"visible":true,},
   ],
+<<<<<<< HEAD
   "nineSlice": {
     "resourceType": "GMNineSliceData",
     "resourceVersion": "1.0",
@@ -47,6 +48,10 @@
     "top": 0,
   },
   "origin": 9,
+=======
+  "nineSlice": null,
+  "origin": 0,
+>>>>>>> Mapbranch
   "parent": {
     "name": "Weapons",
     "path": "folders/Sprites/Weapons.yy",
@@ -82,8 +87,13 @@
     ],
     "visibleRange": null,
     "volume": 1.0,
+<<<<<<< HEAD
     "xorigin": 103,
     "yorigin": 52,
+=======
+    "xorigin": 0,
+    "yorigin": 0,
+>>>>>>> Mapbranch
   },
   "swatchColours": null,
   "swfPrecision": 2.525,
