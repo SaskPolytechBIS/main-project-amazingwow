@@ -81,6 +81,7 @@
     {"name":"obj_spawn","order":1,"path":"objects/obj_spawn/obj_spawn.yy",},
     {"name":"MP3_Maritime_Mayhem_Track1_Win","order":2,"path":"sounds/MP3_Maritime_Mayhem_Track1_Win/MP3_Maritime_Mayhem_Track1_Win.yy",},
     {"name":"sfx_collision_shot_to_water_01","order":3,"path":"sounds/sfx_collision_shot_to_water_01/sfx_collision_shot_to_water_01.yy",},
+    {"name":"Game","order":1,"path":"rooms/Game/Game.yy",},
     {"name":"spr_icon_duckfoot","order":1,"path":"sprites/spr_icon_duckfoot/spr_icon_duckfoot.yy",},
     {"name":"spr_ship_brig_destroyed","order":1,"path":"sprites/spr_ship_brig_destroyed/spr_ship_brig_destroyed.yy",},
     {"name":"spr_cannonball_hit","order":1,"path":"sprites/spr_cannonball_hit/spr_cannonball_hit.yy",},
