@@ -115,6 +115,7 @@
     {"id":{"name":"obj_spawn","path":"objects/obj_spawn/obj_spawn.yy",},},
     {"id":{"name":"MP3_Maritime_Mayhem_Track1_Win","path":"sounds/MP3_Maritime_Mayhem_Track1_Win/MP3_Maritime_Mayhem_Track1_Win.yy",},},
     {"id":{"name":"sfx_collision_shot_to_water_01","path":"sounds/sfx_collision_shot_to_water_01/sfx_collision_shot_to_water_01.yy",},},
+    {"id":{"name":"Game","path":"rooms/Game/Game.yy",},},
     {"id":{"name":"spr_icon_duckfoot","path":"sprites/spr_icon_duckfoot/spr_icon_duckfoot.yy",},},
     {"id":{"name":"mouse_over","path":"scripts/mouse_over/mouse_over.yy",},},
     {"id":{"name":"sfx_cannon_fire_01","path":"sounds/sfx_cannon_fire_01/sfx_cannon_fire_01.yy",},},
@@ -155,6 +156,7 @@
   ],
   "RoomOrderNodes": [
     {"roomId":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
+    {"roomId":{"name":"Game","path":"rooms/Game/Game.yy",},},
   ],
   "templateType": "game",
   "TextureGroups": [
