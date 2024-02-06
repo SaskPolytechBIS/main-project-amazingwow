@@ -10,11 +10,11 @@
   "isDnd": false,
   "layers": [
     {"resourceType":"GMRTileLayer","resourceVersion":"1.1","name":"Tiles_Water","depth":0,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"layers":[],"properties":[],"tiles":{"SerialiseHeight":12,"SerialiseWidth":20,"TileCompressedData":[
-4,5,14,13,7,-16,-2147483648,5,10,11,11,13,7,-14,0,2,-2147483648,10,-3,11,
-1,13,-13,6,3,7,-2147483648,10,-17,11,3,12,-2147483648,10,-17,11,3,12,-2147483648,10,
--17,11,3,12,-2147483648,10,-17,11,3,12,-2147483648,10,-17,11,3,12,-2147483648,10,-17,11,
-3,12,-2147483648,10,-17,11,3,12,-2147483648,10,-17,11,3,12,-2147483648,15,-17,16,2,17,
--2147483648,],"TileDataFormat":1,},"tilesetId":{"name":"TileWater","path":"tilesets/TileWater/TileWater.yy",},"userdefinedDepth":false,"visible":true,"x":0,"y":0,},
+6,5,14,13,7,-2147483648,-2147483648,-6,5,-8,-2147483648,5,10,11,11,13,7,-14,0,2,
+-2147483648,10,-3,11,1,13,-13,6,3,7,-2147483648,10,-17,11,3,12,-2147483648,10,-17,11,
+3,12,-2147483648,10,-17,11,3,12,-2147483648,10,-17,11,3,12,-2147483648,10,-17,11,3,12,
+-2147483648,10,-17,11,3,12,-2147483648,10,-17,11,3,12,-2147483648,10,-17,11,3,12,-2147483648,15,
+-17,16,2,17,-2147483648,],"TileDataFormat":1,},"tilesetId":{"name":"TileWater","path":"tilesets/TileWater/TileWater.yy",},"userdefinedDepth":false,"visible":true,"x":0,"y":0,},
     {"resourceType":"GMRTileLayer","resourceVersion":"1.1","name":"Tiles_Beach","depth":100,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"layers":[],"properties":[],"tiles":{"SerialiseHeight":12,"SerialiseWidth":20,"TileCompressedData":[
 4,8,17,15,9,-16,11,5,12,-2147483648,-2147483648,15,9,-15,11,1,12,-3,-2147483648,1,
 15,-13,16,3,9,11,12,-17,-2147483648,3,10,11,12,-17,-2147483648,3,10,11,12,-17,
