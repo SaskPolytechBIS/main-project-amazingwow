@@ -79,6 +79,7 @@
     {"id":{"name":"sfx_cannon_fire_03","path":"sounds/sfx_cannon_fire_03/sfx_cannon_fire_03.yy",},},
     {"id":{"name":"spr_cannonball","path":"sprites/spr_cannonball/spr_cannonball.yy",},},
     {"id":{"name":"spr_ship_frigate_damaged","path":"sprites/spr_ship_frigate_damaged/spr_ship_frigate_damaged.yy",},},
+    {"id":{"name":"Room2","path":"rooms/Room2/Room2.yy",},},
     {"id":{"name":"spr_rocks2","path":"sprites/spr_rocks2/spr_rocks2.yy",},},
     {"id":{"name":"obj_enemy_gunboat","path":"objects/obj_enemy_gunboat/obj_enemy_gunboat.yy",},},
     {"id":{"name":"spine_buoy","path":"sprites/spine_buoy/spine_buoy.yy",},},
@@ -157,6 +158,7 @@
   "RoomOrderNodes": [
     {"roomId":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
     {"roomId":{"name":"Game","path":"rooms/Game/Game.yy",},},
+    {"roomId":{"name":"Room2","path":"rooms/Room2/Room2.yy",},},
   ],
   "templateType": "game",
   "TextureGroups": [

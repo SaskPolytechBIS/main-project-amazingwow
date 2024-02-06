@@ -60,6 +60,7 @@
     {"name":"sfx_cannon_fire_03","order":2,"path":"sounds/sfx_cannon_fire_03/sfx_cannon_fire_03.yy",},
     {"name":"spr_cannonball","order":3,"path":"sprites/spr_cannonball/spr_cannonball.yy",},
     {"name":"spr_ship_frigate_damaged","order":1,"path":"sprites/spr_ship_frigate_damaged/spr_ship_frigate_damaged.yy",},
+    {"name":"Room2","order":2,"path":"rooms/Room2/Room2.yy",},
     {"name":"spr_rocks2","order":1,"path":"sprites/spr_rocks2/spr_rocks2.yy",},
     {"name":"obj_enemy_gunboat","order":1,"path":"objects/obj_enemy_gunboat/obj_enemy_gunboat.yy",},
     {"name":"pth_main_path","order":16,"path":"paths/pth_main_path/pth_main_path.yy",},
