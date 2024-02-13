@@ -18,6 +18,8 @@
     {"name":"Shaders","order":6,"path":"folders/Shaders.yy",},
     {"name":"Sounds","order":3,"path":"folders/Sounds.yy",},
     {"name":"Music","order":1,"path":"folders/Sounds/Music.yy",},
+    {"name":"Track 1","order":3,"path":"folders/Sounds/Music/Track 1.yy",},
+    {"name":"MP3","order":1,"path":"folders/Sounds/Music/Track 1/MP3.yy",},
     {"name":"Track 2","order":2,"path":"folders/Sounds/Music/Track 2.yy",},
     {"name":"MP3","order":1,"path":"folders/Sounds/Music/Track 2/MP3.yy",},
     {"name":"SFX","order":2,"path":"folders/Sounds/SFX.yy",},
@@ -56,8 +58,6 @@
     {"name":"Weapons","order":8,"path":"folders/Sprites/Weapons.yy",},
     {"name":"Tile Sets","order":2,"path":"folders/Tile Sets.yy",},
     {"name":"Timelines","order":8,"path":"folders/Timelines.yy",},
-    {"name":"Track 1","order":3,"path":"folders/Sounds/Music/Track 1.yy",},
-    {"name":"MP3","order":1,"path":"folders/Sounds/Music/Track 1/MP3.yy",},
   ],
   "ResourceOrderSettings": [
     {"name":"Sprite48","order":18,"path":"sprites/Sprite48/Sprite48.yy",},
