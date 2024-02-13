@@ -5,7 +5,7 @@
 {
 	//override this with the action that should occur
 	//when the left mouse button is pressed while this button is active
-	
+	play_snd(snd_click);
 
 }
 

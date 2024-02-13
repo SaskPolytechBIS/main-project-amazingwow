@@ -1,10 +1,10 @@
 {
   "resourceType": "GMSound",
   "resourceVersion": "1.0",
-  "name": "MP3_Maritime_Mayhem_Track1",
+  "name": "snd_music_bg",
   "audioGroupId": {
-    "name": "audiogroup_default",
-    "path": "audiogroups/audiogroup_default",
+    "name": "music",
+    "path": "audiogroups/music",
   },
   "bitDepth": 1,
   "bitRate": 128,
@@ -12,12 +12,12 @@
   "conversionMode": 0,
   "duration": 147.48,
   "parent": {
-    "name": "MP3",
-    "path": "folders/Sounds/Music/Track 1/MP3.yy",
+    "name": "Sounds",
+    "path": "folders/Sounds.yy",
   },
   "preload": false,
   "sampleRate": 44100,
-  "soundFile": "MP3_Maritime_Mayhem_Track1.mp3",
+  "soundFile": "snd_music_bg.mp3",
   "type": 1,
   "volume": 1.0,
 }

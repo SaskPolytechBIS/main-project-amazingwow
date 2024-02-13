@@ -51,7 +51,7 @@ function menu_control(){
 	}
 	#endregion
 	
-	#region Choice
+	#region Choice maybe change to clicked
 	if(choice)
 	{
 		if(!picked)
