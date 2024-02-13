@@ -20,4 +20,5 @@ if (place_meeting(x, y, obj_end_region)){
 		global.lives -= 20;
 	}
 	instance_destroy();
+	play_snd(sfx_environment_seabirds_01);
 }

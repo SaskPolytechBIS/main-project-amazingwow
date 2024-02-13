@@ -6,6 +6,7 @@ if (instance_exists(obj_to_shoot)){
 	_bullet1.speed = obj_ducksfootball.spd;
 	_bullet2.speed = obj_ducksfootball.spd;
 	_bullet3.speed = obj_ducksfootball.spd;
+	play_snd(sfx_chainshot_01);
 	_bullet1.direction = point_direction(x, y-15, obj_to_shoot.x - 240, obj_to_shoot.y -240);
 	_bullet2.direction = point_direction(x, y, obj_to_shoot.x, obj_to_shoot.y);
 	_bullet3.direction = point_direction(x, y+16, obj_to_shoot.x + 240, obj_to_shoot.y + 240);
