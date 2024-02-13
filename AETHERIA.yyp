@@ -22,6 +22,10 @@
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Game_Objects","folderPath":"folders/Objects/Game_Objects.yy",},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"GameOver_Objects","folderPath":"folders/Objects/GameOver_Objects.yy",},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Menu_Objects","folderPath":"folders/Objects/Menu_Objects.yy",},
+<<<<<<< Updated upstream
+=======
+    {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Options","folderPath":"folders/Objects/Options.yy",},
+>>>>>>> Stashed changes
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Splash_Objects","folderPath":"folders/Objects/Splash_Objects.yy",},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Tower Clickables","folderPath":"folders/Objects/Tower Clickables.yy",},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Tower Drag","folderPath":"folders/Objects/Tower Drag.yy",},
@@ -29,8 +33,14 @@
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Particle Systems","folderPath":"folders/Particle Systems.yy",},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Paths","folderPath":"folders/Paths.yy",},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Rooms","folderPath":"folders/Rooms.yy",},
+    {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Menu","folderPath":"folders/Rooms/Menu.yy",},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Scripts","folderPath":"folders/Scripts.yy",},
+<<<<<<< Updated upstream
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Sequences","folderPath":"folders/Sequences.yy",},
+=======
+    {"resourceType":"GMFolder","resourceVersion":"1.0","name":"MenuControl","folderPath":"folders/Scripts/MenuControl.yy",},
+    {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Sequences","folderPath":"folders/Scripts/Sequences.yy",},
+>>>>>>> Stashed changes
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Shaders","folderPath":"folders/Shaders.yy",},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Sounds","folderPath":"folders/Sounds.yy",},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Music","folderPath":"folders/Sounds/Music.yy",},
@@ -44,10 +54,17 @@
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Extras","folderPath":"folders/Sounds/SFX/Extras.yy",},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Gameplay","folderPath":"folders/Sounds/SFX/Gameplay.yy",},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Sprites","folderPath":"folders/Sprites.yy",},
+    {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Credit","folderPath":"folders/Sprites/Credit.yy",},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Flotsam-Debris","folderPath":"folders/Sprites/Flotsam-Debris.yy",},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Broken Masts","folderPath":"folders/Sprites/Flotsam-Debris/Broken Masts.yy",},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Buoy","folderPath":"folders/Sprites/Flotsam-Debris/Buoy.yy",},
+<<<<<<< Updated upstream
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"General_Sprites","folderPath":"folders/Sprites/General_Sprites.yy",},
+=======
+    {"resourceType":"GMFolder","resourceVersion":"1.0","name":"GameOver","folderPath":"folders/Sprites/GameOver.yy",},
+    {"resourceType":"GMFolder","resourceVersion":"1.0","name":"General","folderPath":"folders/Sprites/General.yy",},
+    {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Menu_Sprites","folderPath":"folders/Sprites/Menu_Sprites.yy",},
+>>>>>>> Stashed changes
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Pick Ups","folderPath":"folders/Sprites/Pick Ups.yy",},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Ship","folderPath":"folders/Sprites/Ship.yy",},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Brig","folderPath":"folders/Sprites/Ship/Brig.yy",},
@@ -55,6 +72,7 @@
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Gunboat","folderPath":"folders/Sprites/Ship/Gunboat.yy",},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Man of War","folderPath":"folders/Sprites/Ship/Man of War.yy",},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Schooner","folderPath":"folders/Sprites/Ship/Schooner.yy",},
+    {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Splash","folderPath":"folders/Sprites/Splash.yy",},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Structures","folderPath":"folders/Sprites/Structures.yy",},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Surfaces","folderPath":"folders/Sprites/Surfaces.yy",},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Tileset","folderPath":"folders/Sprites/Surfaces/Tileset.yy",},
@@ -68,7 +86,10 @@
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Weapons","folderPath":"folders/Sprites/Weapons.yy",},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Tile Sets","folderPath":"folders/Tile Sets.yy",},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Timelines","folderPath":"folders/Timelines.yy",},
+<<<<<<< Updated upstream
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Splash_Sprites","folderPath":"folders/Sprites/Splash_Sprites.yy",},
+=======
+>>>>>>> Stashed changes
   ],
   "IncludedFiles": [],
   "isEcma": false,

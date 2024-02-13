@@ -8,18 +8,32 @@
     {"name":"Bullets","order":6,"path":"folders/Objects/Bullets.yy",},
     {"name":"Credit_Objects","order":9,"path":"folders/Objects/Credit_Objects.yy",},
     {"name":"Enemies","order":8,"path":"folders/Objects/Enemies.yy",},
+<<<<<<< Updated upstream
     {"name":"Game_Objects","order":11,"path":"folders/Objects/Game_Objects.yy",},
     {"name":"GameOver_Objects","order":15,"path":"folders/Objects/GameOver_Objects.yy",},
     {"name":"Menu_Objects","order":13,"path":"folders/Objects/Menu_Objects.yy",},
     {"name":"Splash_Objects","order":19,"path":"folders/Objects/Splash_Objects.yy",},
+=======
+    {"name":"Game_Objects","order":10,"path":"folders/Objects/Game_Objects.yy",},
+    {"name":"GameOver_Objects","order":11,"path":"folders/Objects/GameOver_Objects.yy",},
+    {"name":"Menu_Objects","order":12,"path":"folders/Objects/Menu_Objects.yy",},
+    {"name":"Options","order":16,"path":"folders/Objects/Options.yy",},
+    {"name":"Splash_Objects","order":13,"path":"folders/Objects/Splash_Objects.yy",},
+>>>>>>> Stashed changes
     {"name":"Tower Clickables","order":4,"path":"folders/Objects/Tower Clickables.yy",},
     {"name":"Tower Drag","order":5,"path":"folders/Objects/Tower Drag.yy",},
     {"name":"Towers","order":3,"path":"folders/Objects/Towers.yy",},
     {"name":"Particle Systems","order":15,"path":"folders/Particle Systems.yy",},
     {"name":"Paths","order":4,"path":"folders/Paths.yy",},
     {"name":"Rooms","order":10,"path":"folders/Rooms.yy",},
+    {"name":"Menu","order":7,"path":"folders/Rooms/Menu.yy",},
     {"name":"Scripts","order":5,"path":"folders/Scripts.yy",},
+<<<<<<< Updated upstream
     {"name":"Sequences","order":11,"path":"folders/Sequences.yy",},
+=======
+    {"name":"MenuControl","order":3,"path":"folders/Scripts/MenuControl.yy",},
+    {"name":"Sequences","order":2,"path":"folders/Scripts/Sequences.yy",},
+>>>>>>> Stashed changes
     {"name":"Shaders","order":6,"path":"folders/Shaders.yy",},
     {"name":"Sounds","order":3,"path":"folders/Sounds.yy",},
     {"name":"Music","order":1,"path":"folders/Sounds/Music.yy",},
@@ -33,10 +47,17 @@
     {"name":"Extras","order":2,"path":"folders/Sounds/SFX/Extras.yy",},
     {"name":"Gameplay","order":1,"path":"folders/Sounds/SFX/Gameplay.yy",},
     {"name":"Sprites","order":1,"path":"folders/Sprites.yy",},
+    {"name":"Credit","order":12,"path":"folders/Sprites/Credit.yy",},
     {"name":"Flotsam-Debris","order":3,"path":"folders/Sprites/Flotsam-Debris.yy",},
     {"name":"Broken Masts","order":2,"path":"folders/Sprites/Flotsam-Debris/Broken Masts.yy",},
     {"name":"Buoy","order":1,"path":"folders/Sprites/Flotsam-Debris/Buoy.yy",},
+<<<<<<< Updated upstream
     {"name":"General_Sprites","order":9,"path":"folders/Sprites/General_Sprites.yy",},
+=======
+    {"name":"GameOver","order":13,"path":"folders/Sprites/GameOver.yy",},
+    {"name":"General","order":10,"path":"folders/Sprites/General.yy",},
+    {"name":"Menu_Sprites","order":11,"path":"folders/Sprites/Menu_Sprites.yy",},
+>>>>>>> Stashed changes
     {"name":"Pick Ups","order":7,"path":"folders/Sprites/Pick Ups.yy",},
     {"name":"Ship","order":2,"path":"folders/Sprites/Ship.yy",},
     {"name":"Brig","order":2,"path":"folders/Sprites/Ship/Brig.yy",},
@@ -44,6 +65,7 @@
     {"name":"Gunboat","order":4,"path":"folders/Sprites/Ship/Gunboat.yy",},
     {"name":"Man of War","order":5,"path":"folders/Sprites/Ship/Man of War.yy",},
     {"name":"Schooner","order":6,"path":"folders/Sprites/Ship/Schooner.yy",},
+    {"name":"Splash","order":9,"path":"folders/Sprites/Splash.yy",},
     {"name":"Structures","order":6,"path":"folders/Sprites/Structures.yy",},
     {"name":"Surfaces","order":1,"path":"folders/Sprites/Surfaces.yy",},
     {"name":"Tileset","order":1,"path":"folders/Sprites/Surfaces/Tileset.yy",},
@@ -57,7 +79,10 @@
     {"name":"Weapons","order":8,"path":"folders/Sprites/Weapons.yy",},
     {"name":"Tile Sets","order":2,"path":"folders/Tile Sets.yy",},
     {"name":"Timelines","order":8,"path":"folders/Timelines.yy",},
+<<<<<<< Updated upstream
     {"name":"Splash_Sprites","order":10,"path":"folders/Sprites/Splash_Sprites.yy",},
+=======
+>>>>>>> Stashed changes
   ],
   "ResourceOrderSettings": [
     {"name":"TileWater","order":3,"path":"tilesets/TileWater/TileWater.yy",},

@@ -25,10 +25,17 @@
     "PhysicsWorldPixToMetres": 0.1,
   },
   "roomSettings": {
+<<<<<<< Updated upstream
     "Height": 720,
     "inheritRoomSettings": false,
     "persistent": false,
     "Width": 1280,
+=======
+    "Height": 3000,
+    "inheritRoomSettings": false,
+    "persistent": false,
+    "Width": 5000,
+>>>>>>> Stashed changes
   },
   "sequenceId": null,
   "views": [

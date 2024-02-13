@@ -1,5 +1,13 @@
 var gui_top = 40;
 var gui_sides = 40;
+<<<<<<< Updated upstream
+=======
+
+if(_display =!" ")
+{
+	text_draw(_display,hrw,hrh, fa_center,fnt_logo,c_black,2);
+}
+>>>>>>> Stashed changes
 
 if (_display != "")
 {
