@@ -34,8 +34,8 @@
   ],
   "solid": false,
   "spriteId": {
-    "name": "close",
-    "path": "sprites/close/close.yy",
+    "name": "exit",
+    "path": "sprites/exit/exit.yy",
   },
   "spriteMaskId": null,
   "visible": true,
