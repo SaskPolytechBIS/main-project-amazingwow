@@ -26,7 +26,7 @@ function fade_inout()
 			#region Credit Section =========================
 			if(global.game_section == "credit")
 			{
-				obj_creditcontrol.alarm[1] = splash_delay;
+				obj_creditcontrol.alarm[1] = _splash_delay;
 			}
 			#endregion ===================================
 			#region Game Section =========================
