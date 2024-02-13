@@ -1,8 +1,8 @@
 {
   "resourceType": "GMRoom",
   "resourceVersion": "1.0",
-  "name": "Game",
-  "creationCodeFile": "",
+  "name": "rm_game",
+  "creationCodeFile": "rooms/rm_game/RoomCreationCode.gml",
   "inheritCode": false,
   "inheritCreationOrder": false,
   "inheritLayers": false,
