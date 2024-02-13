@@ -30,7 +30,10 @@
   "physicsStartAwake": true,
   "properties": [],
   "solid": false,
-  "spriteId": null,
+  "spriteId": {
+    "name": "MainPanel",
+    "path": "sprites/MainPanel/MainPanel.yy",
+  },
   "spriteMaskId": null,
   "visible": true,
 }
