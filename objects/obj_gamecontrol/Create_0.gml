@@ -1,12 +1,18 @@
-/// @description Insert description here
-// You can write your code in this editor
+/// @description 
+event_inherited();
 
 
-vars();
-depth = -10;
-alarm[0]= 30;
 
-global.fade = "";
-global.fade_alpha = 1;
+depth = 0;
+global.game_section = "game";
+global._level = 1;
+global._score = 0;
+global._lives = 5;
+
+_display ="";
+_delay_time = 120;
+start = false;
+
+play_snd(snd_music_bg, true);
 
 

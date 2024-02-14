@@ -9,6 +9,7 @@ function general_control(){
 	{
 		if(global.sound_on)
 		{
+			audio_group_stop_all(sounds);
 			global.sound_on = false;
 		}
 		else
@@ -21,6 +22,7 @@ function general_control(){
 	{
 		if(global.music_on)
 		{
+			audio_group_stop_all(music);
 			global.music_on = false;
 		}
 		else

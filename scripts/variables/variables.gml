@@ -6,13 +6,16 @@ function global_vars()
 	global.fade = "";
 	global.fade_alpha = 1;
 	
-	global.sound_on = true;
-	global.music_on = true;
+	global.sound_on = false;
+	global.music_on = false;
 	
 	global.game_section ="";
 	global.menuchoice = "";
 	
+	
 	global.highscore = 0;
+	global.highscoretime = "";
+	
 	global._score = 0;
 	global._level = 0;
 	global._lives = 0;

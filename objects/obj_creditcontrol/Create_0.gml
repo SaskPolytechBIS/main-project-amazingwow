@@ -1,11 +1,10 @@
+event_inherited();
+depth = 0;
 
+global.game_section = "credit";
 
-vars();
-depth = -10;
-alarm[0]= 30;
-
-global.fade = "";
-global.fade_alpha = 1;
+audio_stop_all();
+play_snd(snd_options);
 
 
 

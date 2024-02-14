@@ -1,12 +1,11 @@
-/// @description 
-//Insert description here
-// You can write your code in this editor
-vars();
-depth = -10;
-alarm[0]= 30;
+event_inherited();
 
-global.fade = "";
-global.fade_alpha = 1;
+
+global.game_section = "gameover";
+
+audio_stop_all();
+create_inst(obj_gamemenu);
+
 
 
 

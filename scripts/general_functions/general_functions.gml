@@ -153,3 +153,117 @@ function text_draw(_string)
 	draw_set_color(_face_color);
 	draw_text(_x,_y,_string);
 }
+
+function getdatetime()
+{
+	#region Save Variables
+	var mydate = current_day;
+	var myday = current_weekday;
+	var mymonth = current_month;
+	var myyear = current_year;
+	var myhour = current_hour;
+	var myminute = current_minute;
+	var mysecond = current_second;
+	var ampm = "am";
+	#endregion
+	
+	#region Convert Day of week
+	if(myday == 1)
+	{
+		myday = "Monday";
+	}
+	if(myday == 2)
+	{
+		myday = "Tuesday";
+	}
+	if(myday == 3)
+	{
+		myday = "Wed";
+	}
+	if(myday == 4)
+	{
+		myday = "Thur";
+	}
+	if(myday == 5)
+	{
+		myday = "Friday";
+	}if(myday == 6)
+	{
+		myday = "Sat";
+	}if(myday == 7)
+	{
+		myday = "Sunday";
+	}
+	
+	#endregion
+	
+	#region Convert Month
+	if(mymonth == 1)
+	{
+		mymonth = "Jan";
+	}
+	if(mymonth == 2)
+	{
+		mymonth = "Feb";
+	}
+	if(mymonth == 3)
+	{
+		mymonth = "March";
+	}
+	if(mymonth == 4)
+	{
+		mymonth = "April";
+	}
+	if(mymonth == 5)
+	{
+		mymonth = "May";
+	}
+	if(mymonth == 6)
+	{
+		mymonth = "June";
+	}
+	if(mymonth == 7)
+	{
+		mymonth = "July";
+	}
+	if(mymonth == 8)
+	{
+		mymonth = "August";
+	}
+	if(mymonth == 9)
+	{
+		mymonth = "Sep";
+	}
+	if(mymonth == 10)
+	{
+		mymonth = "Oct";
+	}
+	if(mymonth == 11)
+	{
+		mymonth = "Nov";
+	}
+	if(mymonth == 12)
+	{
+		mymonth = "Dec";
+	}
+	
+	
+	#endregion
+	
+	#region Convert Hour
+	if(myhour > 12)
+	{
+		myhour -= 12;
+		ampm = "pm";
+	}
+	#endregion
+	
+	#region Convert Minute
+	if(myminute < 10)
+	{
+		myminute -= 12;
+		ampm = "pm";
+	}
+	#endregion
+	
+}
