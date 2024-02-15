@@ -82,8 +82,10 @@
     {"id":{"name":"TileWater","path":"tilesets/TileWater/TileWater.yy",},},
     {"id":{"name":"TileGrass","path":"tilesets/TileGrass/TileGrass.yy",},},
     {"id":{"name":"MP3_Maritime_Mayhem_Track2_Lose","path":"sounds/MP3_Maritime_Mayhem_Track2_Lose/MP3_Maritime_Mayhem_Track2_Lose.yy",},},
+
     {"id":{"name":"spr_mortar","path":"sprites/spr_mortar/spr_mortar.yy",},},
     {"id":{"name":"obj_button_exit","path":"objects/obj_button_exit/obj_button_exit.yy",},},
+
     {"id":{"name":"sfx_cannon_fire_03","path":"sounds/sfx_cannon_fire_03/sfx_cannon_fire_03.yy",},},
     {"id":{"name":"spr_cannonball","path":"sprites/spr_cannonball/spr_cannonball.yy",},},
     {"id":{"name":"spr_ship_frigate_damaged","path":"sprites/spr_ship_frigate_damaged/spr_ship_frigate_damaged.yy",},},
@@ -122,7 +124,9 @@
     {"id":{"name":"obj_enemy_manowar","path":"objects/obj_enemy_manowar/obj_enemy_manowar.yy",},},
     {"id":{"name":"TileBeach","path":"tilesets/TileBeach/TileBeach.yy",},},
     {"id":{"name":"obj_ducksfoot_tower","path":"objects/obj_ducksfoot_tower/obj_ducksfoot_tower.yy",},},
+
     {"id":{"name":"obj_cannonball","path":"objects/obj_cannonball/obj_cannonball.yy",},},
+
     {"id":{"name":"spr_rocks1","path":"sprites/spr_rocks1/spr_rocks1.yy",},},
     {"id":{"name":"obj_bullet_parent","path":"objects/obj_bullet_parent/obj_bullet_parent.yy",},},
     {"id":{"name":"obj_button_info","path":"objects/obj_button_info/obj_button_info.yy",},},
@@ -146,6 +150,7 @@
     {"id":{"name":"obj_mortar_clck","path":"objects/obj_mortar_clck/obj_mortar_clck.yy",},},
     {"id":{"name":"spr_wall_top","path":"sprites/spr_wall_top/spr_wall_top.yy",},},
     {"id":{"name":"obj_mortar_drg","path":"objects/obj_mortar_drg/obj_mortar_drg.yy",},},
+
     {"id":{"name":"obj_enemy_brig","path":"objects/obj_enemy_brig/obj_enemy_brig.yy",},},
     {"id":{"name":"MP3_Maritime_Mayhem_Track1_Lose","path":"sounds/MP3_Maritime_Mayhem_Track1_Lose/MP3_Maritime_Mayhem_Track1_Lose.yy",},},
     {"id":{"name":"spine_cannon_hit","path":"sprites/spine_cannon_hit/spine_cannon_hit.yy",},},
@@ -156,6 +161,7 @@
     {"id":{"name":"fib","path":"scripts/fib/fib.yy",},},
     {"id":{"name":"ts_beach","path":"tilesets/ts_beach/ts_beach.yy",},},
     {"id":{"name":"spr_cannonball_trail","path":"sprites/spr_cannonball_trail/spr_cannonball_trail.yy",},},
+
     {"id":{"name":"close","path":"sprites/close/close.yy",},},
     {"id":{"name":"spr_cannon_ducksfoot","path":"sprites/spr_cannon_ducksfoot/spr_cannon_ducksfoot.yy",},},
     {"id":{"name":"obj_button_close","path":"objects/obj_button_close/obj_button_close.yy",},},

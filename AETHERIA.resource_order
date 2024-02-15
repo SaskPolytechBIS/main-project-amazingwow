@@ -63,6 +63,7 @@
     {"name":"TileWater","order":3,"path":"tilesets/TileWater/TileWater.yy",},
     {"name":"TileGrass","order":4,"path":"tilesets/TileGrass/TileGrass.yy",},
     {"name":"MP3_Maritime_Mayhem_Track2_Lose","order":1,"path":"sounds/MP3_Maritime_Mayhem_Track2_Lose/MP3_Maritime_Mayhem_Track2_Lose.yy",},
+
     {"name":"spr_mortar","order":2,"path":"sprites/spr_mortar/spr_mortar.yy",},
     {"name":"obj_button_exit","order":5,"path":"objects/obj_button_exit/obj_button_exit.yy",},
     {"name":"sfx_cannon_fire_03","order":2,"path":"sounds/sfx_cannon_fire_03/sfx_cannon_fire_03.yy",},
@@ -107,15 +108,18 @@
     {"name":"obj_mortar_clck","order":2,"path":"objects/obj_mortar_clck/obj_mortar_clck.yy",},
     {"name":"spr_wall_top","order":3,"path":"sprites/spr_wall_top/spr_wall_top.yy",},
     {"name":"obj_mortar_drg","order":2,"path":"objects/obj_mortar_drg/obj_mortar_drg.yy",},
+
     {"name":"obj_enemy_brig","order":2,"path":"objects/obj_enemy_brig/obj_enemy_brig.yy",},
     {"name":"MP3_Maritime_Mayhem_Track1_Lose","order":1,"path":"sounds/MP3_Maritime_Mayhem_Track1_Lose/MP3_Maritime_Mayhem_Track1_Lose.yy",},
     {"name":"obj_text_Level","order":12,"path":"objects/obj_text_Level/obj_text_Level.yy",},
+
     {"name":"spr_ship_gunboat_damaged","order":1,"path":"sprites/spr_ship_gunboat_damaged/spr_ship_gunboat_damaged.yy",},
     {"name":"obj_tower_parent","order":1,"path":"objects/obj_tower_parent/obj_tower_parent.yy",},
     {"name":"obj_ducksfootball","order":1,"path":"objects/obj_ducksfootball/obj_ducksfootball.yy",},
     {"name":"fib","order":1,"path":"scripts/fib/fib.yy",},
     {"name":"ts_beach","order":2,"path":"tilesets/ts_beach/ts_beach.yy",},
     {"name":"spr_cannonball_trail","order":1,"path":"sprites/spr_cannonball_trail/spr_cannonball_trail.yy",},
+ Updated upstream
     {"name":"close","order":2,"path":"sprites/close/close.yy",},
     {"name":"spr_cannon_ducksfoot","order":1,"path":"sprites/spr_cannon_ducksfoot/spr_cannon_ducksfoot.yy",},
     {"name":"obj_button_close","order":8,"path":"objects/obj_button_close/obj_button_close.yy",},
