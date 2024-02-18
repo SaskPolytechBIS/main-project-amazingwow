@@ -164,7 +164,7 @@ function getdatetime()
 	var myhour = current_hour;
 	var myminute = current_minute;
 	var mysecond = current_second;
-	var ampm = "am";
+	var ampm = "AM";
 	#endregion
 	
 	#region Convert Day of week
@@ -254,7 +254,7 @@ function getdatetime()
 	if(myhour > 12)
 	{
 		myhour -= 12;
-		ampm = "pm";
+		ampm = "PM";
 	}
 	#endregion
 	
@@ -276,7 +276,7 @@ function getdatetime()
 	
 	#region Create High Score Time
 	global.highscoretime = string(myday) + " "
-	+ string(mymonth)+ " "
+	+ mymonth + " "
 	+ string(mydate)+", "
 	+ string(myyear)+" - "
 	+ string(myhour)+": "
