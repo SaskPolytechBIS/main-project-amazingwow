@@ -6,8 +6,8 @@ function global_vars()
 	global.fade = "";
 	global.fade_alpha = 1;
 	
-	global.sound_on = false;
-	global.music_on = false;
+	global.sound_on = true;
+	global.music_on = true;
 	
 	global.game_section ="";
 	global.menuchoice = "";

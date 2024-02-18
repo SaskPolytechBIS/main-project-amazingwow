@@ -258,12 +258,31 @@ function getdatetime()
 	}
 	#endregion
 	
-	#region Convert Minute
+	#region Convert Minutes
 	if(myminute < 10)
 	{
 		myminute -= 12;
 		ampm = "pm";
 	}
+	#endregion
+	
+	#region Convert Seconds
+	if(mysecond < 10)
+	{
+		mysecond = "0"+ string(mysecond);
+		
+	}
+	#endregion
+	
+	#region Create High Score Time
+	global.highscoretime = string(myday) + " "
+	+ string(mymonth)+ " "
+	+ string(mydate)+", "
+	+ string(myyear)+" - "
+	+ string(myhour)+": "
+	+ string(myminute)+ ": "
+	+ string(mysecond)+ " "
+	+ string(ampm);
 	#endregion
 	
 }

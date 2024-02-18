@@ -80,6 +80,7 @@
     {"name":"spr_rocks2","order":1,"path":"sprites/spr_rocks2/spr_rocks2.yy",},
     {"name":"obj_enemy_gunboat","order":1,"path":"objects/obj_enemy_gunboat/obj_enemy_gunboat.yy",},
     {"name":"fnt_menu_button","order":1,"path":"fonts/fnt_menu_button/fnt_menu_button.yy",},
+    {"name":"fnt_text","order":3,"path":"fonts/fnt_text/fnt_text.yy",},
     {"name":"fnt_gui","order":2,"path":"fonts/fnt_gui/fnt_gui.yy",},
     {"name":"pth_main_path","order":16,"path":"paths/pth_main_path/pth_main_path.yy",},
     {"name":"Sprite28","order":17,"path":"sprites/Sprite28/Sprite28.yy",},
