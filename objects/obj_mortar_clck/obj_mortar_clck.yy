@@ -30,8 +30,8 @@
   "properties": [],
   "solid": false,
   "spriteId": {
-    "name": "spr_mortar",
-    "path": "sprites/spr_mortar/spr_mortar.yy",
+    "name": "Mortar",
+    "path": "sprites/Mortar/Mortar.yy",
   },
   "spriteMaskId": null,
   "visible": true,

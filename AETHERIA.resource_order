@@ -7,6 +7,7 @@
     {"name":"Objects","order":9,"path":"folders/Objects.yy",},
     {"name":"Bullets","order":6,"path":"folders/Objects/Bullets.yy",},
     {"name":"Enemies","order":8,"path":"folders/Objects/Enemies.yy",},
+    {"name":"GUI","order":9,"path":"folders/Objects/GUI.yy",},
     {"name":"Tower Clickables","order":4,"path":"folders/Objects/Tower Clickables.yy",},
     {"name":"Tower Drag","order":5,"path":"folders/Objects/Tower Drag.yy",},
     {"name":"Towers","order":3,"path":"folders/Objects/Towers.yy",},
@@ -35,6 +36,7 @@
     {"name":"Plank","order":4,"path":"folders/Sprites/Flotsam-Debris/Plank.yy",},
     {"name":"Sailors","order":5,"path":"folders/Sprites/Flotsam-Debris/Sailors.yy",},
     {"name":"Treasure Chest","order":6,"path":"folders/Sprites/Flotsam-Debris/Treasure Chest.yy",},
+    {"name":"GUI","order":9,"path":"folders/Sprites/GUI.yy",},
     {"name":"Pick Ups","order":7,"path":"folders/Sprites/Pick Ups.yy",},
     {"name":"Ship","order":2,"path":"folders/Sprites/Ship.yy",},
     {"name":"Brig","order":2,"path":"folders/Sprites/Ship/Brig.yy",},
@@ -58,18 +60,28 @@
     {"name":"Weapons","order":8,"path":"folders/Sprites/Weapons.yy",},
     {"name":"Tile Sets","order":2,"path":"folders/Tile Sets.yy",},
     {"name":"Timelines","order":8,"path":"folders/Timelines.yy",},
+    {"name":"NineSlice","order":8,"path":"folders/Sprites/GUI/NineSlice.yy",},
+    {"name":"Main","order":9,"path":"folders/Objects/GUI/Main.yy",},
   ],
   "ResourceOrderSettings": [
+
     {"name":"Sprite48","order":18,"path":"sprites/Sprite48/Sprite48.yy",},
     {"name":"spr_splash_bg","order":1,"path":"sprites/spr_splash_bg/spr_splash_bg.yy",},
     {"name":"snd_click","order":9,"path":"sounds/snd_click/snd_click.yy",},
+
+    {"name":"exit","order":5,"path":"sprites/exit/exit.yy",},
+    {"name":"buttonLong_beige","order":1,"path":"sprites/buttonLong_beige/buttonLong_beige.yy",},
+    {"name":"info","order":7,"path":"sprites/info/info.yy",},
+
     {"name":"TileWater","order":3,"path":"tilesets/TileWater/TileWater.yy",},
     {"name":"spr_fade","order":1,"path":"sprites/spr_fade/spr_fade.yy",},
     {"name":"snd_music_bg","order":3,"path":"sounds/snd_music_bg/snd_music_bg.yy",},
     {"name":"TileGrass","order":4,"path":"tilesets/TileGrass/TileGrass.yy",},
     {"name":"spr_night_bg","order":3,"path":"sprites/spr_night_bg/spr_night_bg.yy",},
     {"name":"MP3_Maritime_Mayhem_Track2_Lose","order":1,"path":"sounds/MP3_Maritime_Mayhem_Track2_Lose/MP3_Maritime_Mayhem_Track2_Lose.yy",},
+
     {"name":"spr_mortar","order":2,"path":"sprites/spr_mortar/spr_mortar.yy",},
+    {"name":"obj_button_exit","order":5,"path":"objects/obj_button_exit/obj_button_exit.yy",},
     {"name":"sfx_cannon_fire_03","order":2,"path":"sounds/sfx_cannon_fire_03/sfx_cannon_fire_03.yy",},
     {"name":"spr_cannonball","order":3,"path":"sprites/spr_cannonball/spr_cannonball.yy",},
     {"name":"spr_ship_frigate_damaged","order":1,"path":"sprites/spr_ship_frigate_damaged/spr_ship_frigate_damaged.yy",},
@@ -78,11 +90,15 @@
     {"name":"obj_enemy_gunboat","order":1,"path":"objects/obj_enemy_gunboat/obj_enemy_gunboat.yy",},
     {"name":"fnt_menu_button","order":1,"path":"fonts/fnt_menu_button/fnt_menu_button.yy",},
     {"name":"pth_main_path","order":16,"path":"paths/pth_main_path/pth_main_path.yy",},
+    {"name":"Ducksfoot","order":1,"path":"sprites/Ducksfoot/Ducksfoot.yy",},
+    {"name":"settings","order":6,"path":"sprites/settings/settings.yy",},
     {"name":"Sprite28","order":17,"path":"sprites/Sprite28/Sprite28.yy",},
     {"name":"spine_pickup_glow","order":2,"path":"sprites/spine_pickup_glow/spine_pickup_glow.yy",},
     {"name":"spr_chainshot","order":4,"path":"sprites/spr_chainshot/spr_chainshot.yy",},
     {"name":"sfx_cannon_fire_02","order":1,"path":"sounds/sfx_cannon_fire_02/sfx_cannon_fire_02.yy",},
+    {"name":"obj_text_hp","order":11,"path":"objects/obj_text_hp/obj_text_hp.yy",},
     {"name":"spr_ship_schooner_damaged","order":1,"path":"sprites/spr_ship_schooner_damaged/spr_ship_schooner_damaged.yy",},
+    {"name":"obj_text_coins","order":10,"path":"objects/obj_text_coins/obj_text_coins.yy",},
     {"name":"MP3_Maritime_Mayhem_Track2_Win","order":2,"path":"sounds/MP3_Maritime_Mayhem_Track2_Win/MP3_Maritime_Mayhem_Track2_Win.yy",},
     {"name":"spr_Grass","order":2,"path":"sprites/spr_Grass/spr_Grass.yy",},
     {"name":"rm_gameover","order":4,"path":"rooms/rm_gameover/rm_gameover.yy",},
@@ -92,6 +108,7 @@
     {"name":"spr_wall_bottom","order":1,"path":"sprites/spr_wall_bottom/spr_wall_bottom.yy",},
     {"name":"obj_ducksfoot_clck","order":1,"path":"objects/obj_ducksfoot_clck/obj_ducksfoot_clck.yy",},
     {"name":"obj_placeable_region","order":7,"path":"objects/obj_placeable_region/obj_placeable_region.yy",},
+    {"name":"obj_button_Leader","order":7,"path":"objects/obj_button_Leader/obj_button_Leader.yy",},
     {"name":"TileBeach","order":5,"path":"tilesets/TileBeach/TileBeach.yy",},
     {"name":"obj_start_button","order":2,"path":"objects/obj_start_button/obj_start_button.yy",},
     {"name":"obj_ducksfoot_tower","order":2,"path":"objects/obj_ducksfoot_tower/obj_ducksfoot_tower.yy",},
@@ -101,14 +118,27 @@
     {"name":"snd_lose","order":5,"path":"sounds/snd_lose/snd_lose.yy",},
     {"name":"obj_bullet_parent","order":3,"path":"objects/obj_bullet_parent/obj_bullet_parent.yy",},
     {"name":"rm_main_menu","order":1,"path":"rooms/rm_main_menu/rm_main_menu.yy",},
+    {"name":"obj_button_info","order":4,"path":"objects/obj_button_info/obj_button_info.yy",},
     {"name":"obj_mortarball","order":2,"path":"objects/obj_mortarball/obj_mortarball.yy",},
+    {"name":"Cannon","order":2,"path":"sprites/Cannon/Cannon.yy",},
     {"name":"obj_enemy_parent","order":3,"path":"objects/obj_enemy_parent/obj_enemy_parent.yy",},
+
     {"name":"obj_spawn_for_delete","order":1,"path":"objects/obj_spawn_for_delete/obj_spawn_for_delete.yy",},
+
+    {"name":"obj_spawn","order":1,"path":"objects/obj_spawn/obj_spawn.yy",},
+    {"name":"GUI","order":3,"path":"rooms/GUI/GUI.yy",},
+    {"name":"MP3_Maritime_Mayhem_Track1_Win","order":2,"path":"sounds/MP3_Maritime_Mayhem_Track1_Win/MP3_Maritime_Mayhem_Track1_Win.yy",},
+    {"name":"obj_button_settings","order":3,"path":"objects/obj_button_settings/obj_button_settings.yy",},
+
     {"name":"sfx_collision_shot_to_water_01","order":3,"path":"sounds/sfx_collision_shot_to_water_01/sfx_collision_shot_to_water_01.yy",},
     {"name":"spr_crate_booty","order":2,"path":"sprites/spr_crate_booty/spr_crate_booty.yy",},
     {"name":"spr_icon_duckfoot","order":1,"path":"sprites/spr_icon_duckfoot/spr_icon_duckfoot.yy",},
+
     {"name":"rm_splash","order":6,"path":"rooms/rm_splash/rm_splash.yy",},
     {"name":"obj_globalcontrol","order":14,"path":"objects/obj_globalcontrol/obj_globalcontrol.yy",},
+
+    {"name":"leader","order":4,"path":"sprites/leader/leader.yy",},
+
     {"name":"spr_ship_brig_destroyed","order":1,"path":"sprites/spr_ship_brig_destroyed/spr_ship_brig_destroyed.yy",},
     {"name":"obj_main_menu_basebutton","order":2,"path":"objects/obj_main_menu_basebutton/obj_main_menu_basebutton.yy",},
     {"name":"spr_cannonball_hit","order":1,"path":"sprites/spr_cannonball_hit/spr_cannonball_hit.yy",},
@@ -116,11 +146,17 @@
     {"name":"obj_mortar_clck","order":2,"path":"objects/obj_mortar_clck/obj_mortar_clck.yy",},
     {"name":"spr_wall_top","order":3,"path":"sprites/spr_wall_top/spr_wall_top.yy",},
     {"name":"obj_mortar_drg","order":2,"path":"objects/obj_mortar_drg/obj_mortar_drg.yy",},
+
     {"name":"obj_enemy_brig","order":2,"path":"objects/obj_enemy_brig/obj_enemy_brig.yy",},
+
     {"name":"spr_memu_button","order":1,"path":"sprites/spr_memu_button/spr_memu_button.yy",},
     {"name":"rm_credit","order":3,"path":"rooms/rm_credit/rm_credit.yy",},
     {"name":"menu_control","order":3,"path":"scripts/menu_control/menu_control.yy",},
     {"name":"obj_menu_quit_button","order":3,"path":"objects/obj_menu_quit_button/obj_menu_quit_button.yy",},
+
+    {"name":"MP3_Maritime_Mayhem_Track1_Lose","order":1,"path":"sounds/MP3_Maritime_Mayhem_Track1_Lose/MP3_Maritime_Mayhem_Track1_Lose.yy",},
+    {"name":"obj_text_Level","order":12,"path":"objects/obj_text_Level/obj_text_Level.yy",},
+
     {"name":"spr_ship_gunboat_damaged","order":1,"path":"sprites/spr_ship_gunboat_damaged/spr_ship_gunboat_damaged.yy",},
     {"name":"obj_tower_parent","order":1,"path":"objects/obj_tower_parent/obj_tower_parent.yy",},
     {"name":"obj_ducksfootball","order":1,"path":"objects/obj_ducksfootball/obj_ducksfootball.yy",},
@@ -131,8 +167,14 @@
     {"name":"ts_beach","order":2,"path":"tilesets/ts_beach/ts_beach.yy",},
     {"name":"obj_menu_options_button","order":6,"path":"objects/obj_menu_options_button/obj_menu_options_button.yy",},
     {"name":"spr_cannonball_trail","order":1,"path":"sprites/spr_cannonball_trail/spr_cannonball_trail.yy",},
+
     {"name":"spr_rowboat_sailor2","order":1,"path":"sprites/spr_rowboat_sailor2/spr_rowboat_sailor2.yy",},
+
+ Updated upstream
+    {"name":"close","order":2,"path":"sprites/close/close.yy",},
+
     {"name":"spr_cannon_ducksfoot","order":1,"path":"sprites/spr_cannon_ducksfoot/spr_cannon_ducksfoot.yy",},
+    {"name":"obj_button_close","order":8,"path":"objects/obj_button_close/obj_button_close.yy",},
     {"name":"obj_ducksfoot_drg","order":1,"path":"objects/obj_ducksfoot_drg/obj_ducksfoot_drg.yy",},
     {"name":"snd_wow","order":10,"path":"sounds/snd_wow/snd_wow.yy",},
     {"name":"sfx_collision_boat_to_boat_01","order":1,"path":"sounds/sfx_collision_boat_to_boat_01/sfx_collision_boat_to_boat_01.yy",},

@@ -30,8 +30,8 @@
   "properties": [],
   "solid": false,
   "spriteId": {
-    "name": "spr_cannon_ducksfoot",
-    "path": "sprites/spr_cannon_ducksfoot/spr_cannon_ducksfoot.yy",
+    "name": "Ducksfoot",
+    "path": "sprites/Ducksfoot/Ducksfoot.yy",
   },
   "spriteMaskId": null,
   "visible": true,
