@@ -7,6 +7,7 @@
     {"name":"info","order":1,"path":"sprites/info/info.yy",},
     {"name":"obj_Player_Health","order":4,"path":"objects/obj_Player_Health/obj_Player_Health.yy",},
     {"name":"SpriteLifeBarFrame","order":2,"path":"sprites/SpriteLifeBarFrame/SpriteLifeBarFrame.yy",},
+    {"name":"obj_pause","order":1,"path":"objects/obj_pause/obj_pause.yy",},
     {"name":"Ducksfoot","order":2,"path":"sprites/Ducksfoot/Ducksfoot.yy",},
     {"name":"settings","order":3,"path":"sprites/settings/settings.yy",},
     {"name":"obj_game_GUI","order":1,"path":"objects/obj_game_GUI/obj_game_GUI.yy",},

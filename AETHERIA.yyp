@@ -129,6 +129,7 @@
     {"id":{"name":"sfx_chainshot_01","path":"sounds/sfx_chainshot_01/sfx_chainshot_01.yy",},},
     {"id":{"name":"spine_plank","path":"sprites/spine_plank/spine_plank.yy",},},
     {"id":{"name":"pth_main_path","path":"paths/pth_main_path/pth_main_path.yy",},},
+    {"id":{"name":"obj_pause","path":"objects/obj_pause/obj_pause.yy",},},
     {"id":{"name":"Ducksfoot","path":"sprites/Ducksfoot/Ducksfoot.yy",},},
     {"id":{"name":"settings","path":"sprites/settings/settings.yy",},},
     {"id":{"name":"Sprite28","path":"sprites/Sprite28/Sprite28.yy",},},
