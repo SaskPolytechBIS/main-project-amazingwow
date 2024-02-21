@@ -18,7 +18,7 @@ text_draw(but_name, _x , oneplayer_height, fa_left, fnt_logo, oneplayer_color);
 
 text_draw("Exit Game", _x , exit_height, fa_left, fnt_logo, exit_color);
 #endregion
-
+//TODO: change menu to options
 if(global.game_section == "menu" || global.game_section =="game")
 {
 	//text_draw("Game Title", hrw , hrh -200, fa_center, fnt_logo, c_white, 2);

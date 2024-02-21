@@ -275,7 +275,7 @@ function getdatetime()
 	#endregion
 	
 	#region Create High Score Time
-	global.highscoretime = string(myday) + " "
+	global.highscoretime = myday + " "
 	+ mymonth + " "
 	+ string(mydate)+", "
 	+ string(myyear)+" - "
