@@ -189,6 +189,7 @@
     {"id":{"name":"obj_spawn_for_delete","path":"objects/obj_spawn_for_delete/obj_spawn_for_delete.yy",},},
     {"id":{"name":"fade_inout","path":"scripts/fade_inout/fade_inout.yy",},},
     {"id":{"name":"GUI","path":"rooms/GUI/GUI.yy",},},
+    {"id":{"name":"SpriteLifeBar3","path":"sprites/SpriteLifeBar3/SpriteLifeBar3.yy",},},
     {"id":{"name":"obj_button_settings","path":"objects/obj_button_settings/obj_button_settings.yy",},},
     {"id":{"name":"Mortar","path":"sprites/Mortar/Mortar.yy",},},
     {"id":{"name":"sfx_collision_shot_to_water_01","path":"sounds/sfx_collision_shot_to_water_01/sfx_collision_shot_to_water_01.yy",},},
