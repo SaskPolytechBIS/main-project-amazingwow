@@ -5,8 +5,8 @@
   "closed": false,
   "kind": 1,
   "parent": {
-    "name": "AETHERIA",
-    "path": "AETHERIA.yyp",
+    "name": "Paths",
+    "path": "folders/Paths.yy",
   },
   "points": [
     {"speed":100.0,"x":640.0,"y":-64.0,},

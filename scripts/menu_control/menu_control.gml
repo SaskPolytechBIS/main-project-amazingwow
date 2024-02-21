@@ -3,14 +3,14 @@
 function menu_control(){
 
 #region Controls
-	var down = keyboard_check_pressed(vk_down);
-	var up = keyboard_check_pressed(vk_up);
-	var choice = keyboard_check_pressed(vk_enter);
-	var menu_exit = keyboard_check_pressed(vk_escape);
+	var _down = keyboard_check_pressed(vk_down);
+	var _up = keyboard_check_pressed(vk_up);
+	var _choice = keyboard_check_pressed(vk_enter);
+	var _menu_exit = keyboard_check_pressed(vk_escape);
 	#endregion
 	
 	#region Down Button
-	if(up)
+	if(_up)
 	{
 		//menu_move = false;
 		if(position == "playgame")
@@ -31,7 +31,7 @@ function menu_control(){
 	#endregion
 	
 	#region Up Button
-	if(down)
+	if(_down)
 	{
 		//menu_move = false;
 		if(position == "playgame")
@@ -52,7 +52,7 @@ function menu_control(){
 	#endregion
 	
 	#region Choice maybe change to clicked
-	if(choice)
+	if(_choice)
 	{
 		if(!picked)
 		{

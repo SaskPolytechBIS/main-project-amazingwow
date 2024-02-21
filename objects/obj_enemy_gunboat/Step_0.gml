@@ -10,3 +10,14 @@ if (hp <= 0){
 	//var _new_spr = layer_sprite_create(, x, y, spr_ship_brig_destroyed);
 	//layer_sprite_change(_spr_id, spr_ship_brig_destroyed);
 }
+
+if (place_meeting(x, y, obj_end_region)){
+	if (hp <= (base_hp/2)){
+		global.lives -= 5;
+	}
+	else {
+		global.lives -= 10;
+	}
+	instance_destroy();
+	play_snd(sfx_environment_seabirds_01);
+}
