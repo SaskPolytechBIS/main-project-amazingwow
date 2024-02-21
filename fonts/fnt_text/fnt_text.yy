@@ -1,7 +1,7 @@
 {
   "resourceType": "GMFont",
   "resourceVersion": "1.0",
-  "name": "fnt_logo",
+  "name": "fnt_text",
   "AntiAlias": 1,
   "applyKerning": 0,
   "ascender": 24,
@@ -10,7 +10,7 @@
   "canGenerateBitmap": true,
   "charset": 0,
   "first": 0,
-  "fontName": "Arial Greek",
+  "fontName": "Arial",
   "glyphOperations": 0,
   "glyphs": {
     "32": {"character":32,"h":31,"offset":0,"shift":8,"w":8,"x":2,"y":2,},

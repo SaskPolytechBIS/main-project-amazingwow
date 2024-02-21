@@ -1,8 +1,8 @@
 vars();
 depth = -1;
 
-off_color = c_white;
-on_color = c_gray;
+off_color = c_grey;
+on_color = c_white;
 
 oneplayer_color = on_color;
 exit_color = off_color;

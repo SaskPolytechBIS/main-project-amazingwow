@@ -12,7 +12,10 @@ function global_vars()
 	global.game_section ="";
 	global.menuchoice = "";
 	
+	
 	global.highscore = 0;
+	global.highscoretime = "";
+	
 	global._score = 0;
 	global._level = 0;
 	global._lives = 0;
