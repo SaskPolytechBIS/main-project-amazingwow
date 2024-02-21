@@ -14,7 +14,6 @@
     {"name":"obj_text_hp","order":2,"path":"objects/obj_text_hp/obj_text_hp.yy",},
     {"name":"obj_text_coins","order":1,"path":"objects/obj_text_coins/obj_text_coins.yy",},
     {"name":"Cannon","order":4,"path":"sprites/Cannon/Cannon.yy",},
-    {"name":"SpriteLifeBar3","order":5,"path":"sprites/SpriteLifeBar3/SpriteLifeBar3.yy",},
     {"name":"Mortar","order":5,"path":"sprites/Mortar/Mortar.yy",},
     {"name":"leader","order":6,"path":"sprites/leader/leader.yy",},
     {"name":"SpriteLifeBar","order":1,"path":"sprites/SpriteLifeBar/SpriteLifeBar.yy",},
