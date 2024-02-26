@@ -7,5 +7,5 @@ pauseSurf = -1;
 pauseSurfBuffer = -1;
 
 //game resolution
-resW=1366;
-resH=768;
+resW=7000;
+resH=3500;

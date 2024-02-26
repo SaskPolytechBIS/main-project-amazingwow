@@ -21,13 +21,10 @@
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Bullets","folderPath":"folders/Objects/Bullets.yy",},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Credit_Objects","folderPath":"folders/Objects/Credit_Objects.yy",},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Enemies","folderPath":"folders/Objects/Enemies.yy",},
-    {"resourceType":"GMFolder","resourceVersion":"1.0","name":"GameOver_Objects","folderPath":"folders/Objects/GameOver_Objects.yy",},
-
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Game_Objects","folderPath":"folders/Objects/Game_Objects.yy",},
-
+    {"resourceType":"GMFolder","resourceVersion":"1.0","name":"GameOver_Objects","folderPath":"folders/Objects/GameOver_Objects.yy",},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"GUI","folderPath":"folders/Objects/GUI.yy",},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Main","folderPath":"folders/Objects/GUI/Main.yy",},
-
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Menu_Objects","folderPath":"folders/Objects/Menu_Objects.yy",},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Options","folderPath":"folders/Objects/Options.yy",},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Splash_Objects","folderPath":"folders/Objects/Splash_Objects.yy",},
@@ -98,7 +95,7 @@
   "isEcma": false,
   "LibraryEmitters": [],
   "MetaData": {
-    "IDEVersion": "2023.8.2.108",
+    "IDEVersion": "2023.11.1.129",
   },
   "resources": [
     {"id":{"name":"obj_slider_base","path":"objects/obj_slider_base/obj_slider_base.yy",},},
@@ -108,13 +105,11 @@
     {"id":{"name":"spine_treasure_chest","path":"sprites/spine_treasure_chest/spine_treasure_chest.yy",},},
     {"id":{"name":"Sprite48","path":"sprites/Sprite48/Sprite48.yy",},},
     {"id":{"name":"spr_splash_bg","path":"sprites/spr_splash_bg/spr_splash_bg.yy",},},
-
     {"id":{"name":"snd_click","path":"sounds/snd_click/snd_click.yy",},},
     {"id":{"name":"exit","path":"sprites/exit/exit.yy",},},
     {"id":{"name":"buttonLong_beige","path":"sprites/buttonLong_beige/buttonLong_beige.yy",},},
     {"id":{"name":"info","path":"sprites/info/info.yy",},},
     {"id":{"name":"MP3_Maritime_Mayhem_Track1","path":"sounds/MP3_Maritime_Mayhem_Track1/MP3_Maritime_Mayhem_Track1.yy",},},
-
     {"id":{"name":"TileWater","path":"tilesets/TileWater/TileWater.yy",},},
     {"id":{"name":"spr_fade","path":"sprites/spr_fade/spr_fade.yy",},},
     {"id":{"name":"snd_music_bg","path":"sounds/snd_music_bg/snd_music_bg.yy",},},
@@ -135,11 +130,8 @@
     {"id":{"name":"obj_enemy_gunboat","path":"objects/obj_enemy_gunboat/obj_enemy_gunboat.yy",},},
     {"id":{"name":"fnt_menu_button","path":"fonts/fnt_menu_button/fnt_menu_button.yy",},},
     {"id":{"name":"spine_buoy","path":"sprites/spine_buoy/spine_buoy.yy",},},
-
     {"id":{"name":"fnt_text","path":"fonts/fnt_text/fnt_text.yy",},},
-
     {"id":{"name":"SpriteLifeBarFrame","path":"sprites/SpriteLifeBarFrame/SpriteLifeBarFrame.yy",},},
-
     {"id":{"name":"sfx_chainshot_01","path":"sounds/sfx_chainshot_01/sfx_chainshot_01.yy",},},
     {"id":{"name":"fnt_gui","path":"fonts/fnt_gui/fnt_gui.yy",},},
     {"id":{"name":"spine_plank","path":"sprites/spine_plank/spine_plank.yy",},},
@@ -181,11 +173,8 @@
     {"id":{"name":"obj_placeable_region","path":"objects/obj_placeable_region/obj_placeable_region.yy",},},
     {"id":{"name":"spine_cannonball_trail","path":"sprites/spine_cannonball_trail/spine_cannonball_trail.yy",},},
     {"id":{"name":"MP3_Maritime_Mayhem_Track2","path":"sounds/MP3_Maritime_Mayhem_Track2/MP3_Maritime_Mayhem_Track2.yy",},},
-
     {"id":{"name":"obj_optioncontrol","path":"objects/obj_optioncontrol/obj_optioncontrol.yy",},},
-
     {"id":{"name":"obj_button_Leader","path":"objects/obj_button_Leader/obj_button_Leader.yy",},},
-
     {"id":{"name":"obj_enemy_manowar","path":"objects/obj_enemy_manowar/obj_enemy_manowar.yy",},},
     {"id":{"name":"spine_rowboat","path":"sprites/spine_rowboat/spine_rowboat.yy",},},
     {"id":{"name":"TileBeach","path":"tilesets/TileBeach/TileBeach.yy",},},
@@ -299,7 +288,6 @@
     {"roomId":{"name":"rm_credit","path":"rooms/rm_credit/rm_credit.yy",},},
     {"roomId":{"name":"rm_gameover","path":"rooms/rm_gameover/rm_gameover.yy",},},
     {"roomId":{"name":"GUI","path":"rooms/GUI/GUI.yy",},},
-
   ],
   "templateType": "game",
   "TextureGroups": [

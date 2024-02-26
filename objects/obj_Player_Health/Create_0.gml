@@ -3,8 +3,8 @@
 
 maxlife = 100;
 
-healthbar_width = 100;
-healthbar_height = 18;
+healthbar_width = 700;
+healthbar_height = 180;
 
 healthbar_x = x
 healthbar_y = y

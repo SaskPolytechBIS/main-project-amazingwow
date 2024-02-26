@@ -17,7 +17,7 @@ if(global.pause){ //draw frozen image to screen while paused
 	surface_reset_target();
 }
 
-if (keyboard_check_pressed(vk_escape)){
+if (keyboard_check_pressed(vk_f9)){
 
 	if(!global.pause){
 	

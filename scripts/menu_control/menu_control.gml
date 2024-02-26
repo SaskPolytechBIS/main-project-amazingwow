@@ -93,16 +93,6 @@ function menu_control(){
 		
 	#endregion
 	
-	if(_menu_exit && global.game_section == "game")
-	{
-		audio_resume_all();
-		instance_activate_all();
-		instance_destroy();
 	
-	}
-	if(global.game_section == "game")
-	{
-		general_control();
-	}
 		
 }
