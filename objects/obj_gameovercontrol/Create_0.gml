@@ -14,7 +14,7 @@ if(global._score> global.highscore)
 	play_snd(snd_win_ending);
 	getdatetime();
 	temp_highscore = global.highscore;
-	global.highscore = global._score;
+	global.highscore = global.score;
 	ini_open("highscore,ini");
 	ini_write_real("highscore","Highscore",global.highscore);
 	ini_write_string("highscoretime","Highscoretime", global.highscoretime);
