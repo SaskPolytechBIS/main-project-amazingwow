@@ -30,8 +30,8 @@
   "properties": [],
   "solid": false,
   "spriteId": {
-    "name": "spr_cannon",
-    "path": "sprites/spr_cannon/spr_cannon.yy",
+    "name": "Cannon",
+    "path": "sprites/Cannon/Cannon.yy",
   },
   "spriteMaskId": null,
   "visible": true,

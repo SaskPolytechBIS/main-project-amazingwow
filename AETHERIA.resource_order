@@ -1,5 +1,6 @@
 {
   "FolderOrderSettings": [
+
     {"name":"Animation Curves","order":12,"path":"folders/Animation Curves.yy",},
     {"name":"Extensions","order":14,"path":"folders/Extensions.yy",},
     {"name":"Fonts","order":7,"path":"folders/Fonts.yy",},
@@ -175,5 +176,26 @@
     {"name":"obj_gamemenu","order":1,"path":"objects/obj_gamemenu/obj_gamemenu.yy",},
     {"name":"general_control","order":1,"path":"scripts/general_control/general_control.yy",},
     {"name":"sfx_environment_seabirds_02","order":1,"path":"sounds/sfx_environment_seabirds_02/sfx_environment_seabirds_02.yy",},
+    {"name":"NineSlice","order":7,"path":"folders/Sprites/GUI/NineSlice.yy",},
+  ],
+  "ResourceOrderSettings": [
+    {"name":"SpriteLifeBarBackground","order":3,"path":"sprites/SpriteLifeBarBackground/SpriteLifeBarBackground.yy",},
+    {"name":"info","order":1,"path":"sprites/info/info.yy",},
+    {"name":"obj_Player_Health","order":4,"path":"objects/obj_Player_Health/obj_Player_Health.yy",},
+    {"name":"SpriteLifeBarFrame","order":2,"path":"sprites/SpriteLifeBarFrame/SpriteLifeBarFrame.yy",},
+    {"name":"obj_pause","order":1,"path":"objects/obj_pause/obj_pause.yy",},
+    {"name":"Ducksfoot","order":2,"path":"sprites/Ducksfoot/Ducksfoot.yy",},
+    {"name":"settings","order":3,"path":"sprites/settings/settings.yy",},
+    {"name":"obj_game_GUI","order":1,"path":"objects/obj_game_GUI/obj_game_GUI.yy",},
+    {"name":"obj_text_hp","order":2,"path":"objects/obj_text_hp/obj_text_hp.yy",},
+    {"name":"obj_text_coins","order":1,"path":"objects/obj_text_coins/obj_text_coins.yy",},
+    {"name":"Cannon","order":4,"path":"sprites/Cannon/Cannon.yy",},
+    {"name":"Mortar","order":5,"path":"sprites/Mortar/Mortar.yy",},
+    {"name":"leader","order":6,"path":"sprites/leader/leader.yy",},
+    {"name":"SpriteLifeBar","order":1,"path":"sprites/SpriteLifeBar/SpriteLifeBar.yy",},
+    {"name":"obj_text_Level","order":3,"path":"objects/obj_text_Level/obj_text_Level.yy",},
+    {"name":"close","order":8,"path":"sprites/close/close.yy",},
+    {"name":"SpriteLifeBar2","order":4,"path":"sprites/SpriteLifeBar2/SpriteLifeBar2.yy",},
+
   ],
 }
