@@ -16,9 +16,9 @@ function global_vars()
 	global.highscore = 0;
 	global.highscoretime = "";
 	
-	global._score = 0;
-	global._level = 0;
-	global._lives = 0;
+	global.score = 0;
+	global.level = 0;
+	global.lives = 0;
 	
 }
 function vars()

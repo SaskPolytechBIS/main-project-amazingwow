@@ -35,7 +35,7 @@ if(keyboard_check_pressed(vk_space))
 
 if(keyboard_check_pressed(vk_f4))
 {
-	global._lives = 0;
-	global._score = global.highscore + 10 ;
+	global.lives = 0;
+	global.score = global.highscore + 10 ;
 }
 
