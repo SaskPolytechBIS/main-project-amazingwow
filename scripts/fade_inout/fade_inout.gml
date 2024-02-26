@@ -47,12 +47,42 @@ function fade_inout(){
 			{
 				if(global.menuchoice == "play")
 				{
-				room_goto(rm_1);
+					room_goto(rm_game);
 				}
 				else
 				{
 					room_goto(rm_credit);
 				}
+			}
+			#endregion ===================================
+			
+			// Game Section =========================
+			#region GameOver Section =========================
+			if(global.game_section == "gameover")
+			{
+				if(global.menuchoice == "exit")
+				{
+					room_goto(rm_credit);
+				}
+				else
+				{
+					room_goto(rm_game);
+				}
+			}
+			#endregion ===================================
+			#region Restart Section =========================
+			if(global.game_section == "restart")
+			{
+			
+				room_goto(rm_game);
+			
+			}
+			#endregion ===================================
+			
+			#region Credit Section =========================
+			if(global.game_section == "credit")
+			{
+				obj_creditcontrol.alarm[2] = 60;
 			}
 			#endregion ===================================
 		}

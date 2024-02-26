@@ -6,11 +6,17 @@
   "inheritCode": false,
   "inheritCreationOrder": false,
   "inheritLayers": false,
-  "instanceCreationOrder": [],
+  "instanceCreationOrder": [
+    {"name":"inst_3324BEA0","path":"rooms/rm_credit/rm_credit.yy",},
+    {"name":"inst_C0B206F","path":"rooms/rm_credit/rm_credit.yy",},
+  ],
   "isDnd": false,
   "layers": [
-    {"resourceType":"GMRInstanceLayer","resourceVersion":"1.0","name":"Instances","depth":0,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"instances":[],"layers":[],"properties":[],"userdefinedDepth":false,"visible":true,},
-    {"resourceType":"GMRBackgroundLayer","resourceVersion":"1.0","name":"Background","animationFPS":0.0,"animationSpeedType":0,"colour":4294967295,"depth":100,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"hspeed":0.0,"htiled":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"layers":[],"properties":[],"spriteId":{"name":"spr_credit_bg","path":"sprites/spr_credit_bg/spr_credit_bg.yy",},"stretch":false,"userdefinedAnimFPS":false,"userdefinedDepth":false,"visible":true,"vspeed":0.0,"vtiled":false,"x":0,"y":0,},
+    {"resourceType":"GMRInstanceLayer","resourceVersion":"1.0","name":"Instances","depth":0,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"instances":[
+        {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_3324BEA0","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"obj_credit_quit_button","path":"objects/obj_credit_quit_button/obj_credit_quit_button.yy",},"properties":[],"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":6464.0,"y":2944.0,},
+        {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_C0B206F","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"obj_goback_button","path":"objects/obj_goback_button/obj_goback_button.yy",},"properties":[],"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":576.0,"y":2976.0,},
+      ],"layers":[],"properties":[],"userdefinedDepth":false,"visible":true,},
+    {"resourceType":"GMRBackgroundLayer","resourceVersion":"1.0","name":"Background","animationFPS":0.0,"animationSpeedType":0,"colour":4294967295,"depth":100,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"hspeed":0.0,"htiled":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"layers":[],"properties":[],"spriteId":{"name":"spr_credit_bg","path":"sprites/spr_credit_bg/spr_credit_bg.yy",},"stretch":true,"userdefinedAnimFPS":false,"userdefinedDepth":false,"visible":true,"vspeed":0.0,"vtiled":false,"x":0,"y":0,},
   ],
   "parent": {
     "name": "Rooms",
@@ -25,10 +31,10 @@
     "PhysicsWorldPixToMetres": 0.1,
   },
   "roomSettings": {
-    "Height": 768,
+    "Height": 3500,
     "inheritRoomSettings": false,
     "persistent": false,
-    "Width": 1800,
+    "Width": 7000,
   },
   "sequenceId": null,
   "views": [

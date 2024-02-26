@@ -190,7 +190,7 @@ function getdatetime()
 	}if(myday == 6)
 	{
 		myday = "Sat";
-	}if(myday == 7)
+	}if(myday == 0)
 	{
 		myday = "Sunday";
 	}

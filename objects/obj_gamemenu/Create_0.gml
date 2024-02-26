@@ -20,7 +20,19 @@ picked = false;
 
 global.menuchoice = "";
 
-but_name = "Play Game";
+if(global.game_section == "menu")
+{
+	but_name = "Play Game";
+}
+if(global.game_section == "gameover")
+{
+	but_name = "Play Again";
+}
+if(global.game_section == "game")
+{
+	but_name = "Resume Game";
+}
+
 
 
 

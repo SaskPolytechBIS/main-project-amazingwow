@@ -1,6 +1,7 @@
 {
 	play_snd(snd_click);
-	room_goto(rm_1);
+	global.game_section = "game";
+	room_goto(rm_game);
 }
 
 

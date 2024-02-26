@@ -1,5 +1,2 @@
 general_control();
 
-
-
-

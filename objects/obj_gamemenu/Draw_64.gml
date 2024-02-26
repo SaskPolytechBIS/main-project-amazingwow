@@ -14,9 +14,9 @@ if(!picked)
 	draw_sprite(spr_arrow, 0, _x - 40, arrow_height);
 }
 
-text_draw(but_name, _x , oneplayer_height, fa_left, fnt_logo, oneplayer_color);
+text_draw(but_name, _x , oneplayer_height, fa_left, fnt_gui, oneplayer_color);
 
-text_draw("Exit Game", _x , exit_height, fa_left, fnt_logo, exit_color);
+text_draw("Exit Game", _x , exit_height, fa_left, fnt_gui, exit_color);
 #endregion
 //TODO: change menu to options
 if(global.game_section == "menu" || global.game_section =="game")

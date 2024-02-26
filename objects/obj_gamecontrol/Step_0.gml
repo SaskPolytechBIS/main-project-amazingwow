@@ -29,7 +29,8 @@ if(global.music_on)
 
 if(keyboard_check_pressed(vk_space))
 {
-	play_snd(snd_click);
+	//global._lives = 0;
+	play_snd(snd_lose_ohoh);
 }
 
 if(keyboard_check_pressed(vk_f4))

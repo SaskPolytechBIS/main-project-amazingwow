@@ -3,7 +3,7 @@ depth = 0;
 
 global.game_section = "credit";
 
-audio_stop_all();
+//audio_stop_all();
 play_snd(snd_options);
 
 

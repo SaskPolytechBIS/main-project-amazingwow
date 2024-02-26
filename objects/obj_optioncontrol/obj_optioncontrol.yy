@@ -1,17 +1,20 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "obj_fullscreen",
+  "name": "obj_optioncontrol",
   "eventList": [
-    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":70,"eventType":9,"isDnD":false,},
+    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,},
   ],
   "managed": true,
   "overriddenProperties": [],
   "parent": {
-    "name": "Objects",
-    "path": "folders/Objects.yy",
+    "name": "Options",
+    "path": "folders/Objects/Options.yy",
   },
-  "parentObjectId": null,
+  "parentObjectId": {
+    "name": "obj_menucontrol",
+    "path": "objects/obj_menucontrol/obj_menucontrol.yy",
+  },
   "persistent": false,
   "physicsAngularDamping": 0.1,
   "physicsDensity": 0.5,
