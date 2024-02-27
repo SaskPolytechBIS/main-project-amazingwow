@@ -88,5 +88,5 @@ function fade_inout(){
 		}
 	}
 	
-	draw_sprite_ext(spr_fade, 0, 0, 0, rw, rh, 0, c_white,global.fade_alpha )
+	draw_sprite_ext(spr_fade, 0, 0, 0, 7000,3500, 0, c_white,global.fade_alpha )
 }
