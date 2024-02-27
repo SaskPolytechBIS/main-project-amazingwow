@@ -16,7 +16,7 @@ draw_text_transformed(x, y - 1200, "PAUSED", 10, 10, 0);
 draw_set_color(c_white); // Reset the color to default after drawing
 draw_text_transformed(x, y - 1000, "Press f9 to Pause/Unpause",5, 5, 0); 
 
-inst
+
 
 
 draw_sprite_ext(spr_ship_gunboat, 0, x - 2700, y, 2, 2, 90, c_white, 0.8);
