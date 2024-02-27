@@ -3,6 +3,10 @@
 var _brig_spawn_amount = fib(brig_spawn_init);
 var _gunboat_spawn_amount = fib(gunboat_spawn_init);
 var _manowar_spawn_amount = fib(manowar_spawn_init);
+
+
+
+
 total_spawn_amount = _brig_spawn_amount + _gunboat_spawn_amount + _manowar_spawn_amount;
 var _manowar_spawn_count = 0;
 if(spawn_count < total_spawn_amount){
