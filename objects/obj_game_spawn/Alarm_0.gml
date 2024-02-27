@@ -1,8 +1,8 @@
 /// @description Insert description here
 // You can write your code in this editor
-var _brig_spawn_amount = fib(brig_spawn_init);
-var _gunboat_spawn_amount = fib(gunboat_spawn_init);
-var _manowar_spawn_amount = fib(manowar_spawn_init);
+var _brig_spawn_amount = brig_spawn_init;//fib(brig_spawn_init);
+var _gunboat_spawn_amount = gunboat_spawn_init;//fib(gunboat_spawn_init);
+var _manowar_spawn_amount = manowar_spawn_init;//fib(manowar_spawn_init);
 
 
 

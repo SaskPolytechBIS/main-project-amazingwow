@@ -5,6 +5,9 @@ if (instance_exists(obj_to_shoot)){
 	_bullet.direction = point_direction(x, y, obj_to_shoot.x, obj_to_shoot.y);
 	play_snd(sfx_cannon_fire_01);
 	alarm[0] = fire_rate;
+	_bullet.origin_x = x;
+	_bullet.origin_y = y;
+	_bullet.parent_range = range;
 } else {
 	shooting = false;
 }

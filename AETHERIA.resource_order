@@ -90,10 +90,12 @@
     {"name":"Mortar","order":5,"path":"sprites/Mortar/Mortar.yy",},
     {"name":"leader","order":6,"path":"sprites/leader/leader.yy",},
     {"name":"SpriteLifeBar","order":1,"path":"sprites/SpriteLifeBar/SpriteLifeBar.yy",},
+    {"name":"pth_brig_path","order":2,"path":"paths/pth_brig_path/pth_brig_path.yy",},
     {"name":"explode","order":3,"path":"sprites/explode/explode.yy",},
     {"name":"spr_ducksfootball","order":1,"path":"sprites/spr_ducksfootball/spr_ducksfootball.yy",},
     {"name":"obj_text_Level","order":3,"path":"objects/obj_text_Level/obj_text_Level.yy",},
     {"name":"close","order":8,"path":"sprites/close/close.yy",},
+    {"name":"pth_manowar_path","order":1,"path":"paths/pth_manowar_path/pth_manowar_path.yy",},
     {"name":"SpriteLifeBar2","order":4,"path":"sprites/SpriteLifeBar2/SpriteLifeBar2.yy",},
   ],
 }
