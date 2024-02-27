@@ -94,6 +94,7 @@
     {"name":"rm_splash","order":2,"path":"rooms/rm_splash/rm_splash.yy",},
     {"name":"leader","order":6,"path":"sprites/leader/leader.yy",},
     {"name":"SpriteLifeBar","order":1,"path":"sprites/SpriteLifeBar/SpriteLifeBar.yy",},
+    {"name":"spr_logo","order":1,"path":"sprites/spr_logo/spr_logo.yy",},
     {"name":"pth_brig_path","order":2,"path":"paths/pth_brig_path/pth_brig_path.yy",},
     {"name":"explode","order":3,"path":"sprites/explode/explode.yy",},
     {"name":"spr_ducksfootball","order":1,"path":"sprites/spr_ducksfootball/spr_ducksfootball.yy",},
