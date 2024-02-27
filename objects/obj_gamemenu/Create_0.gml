@@ -20,9 +20,11 @@ picked = false;
 
 global.menuchoice = "";
 
+
+
 if(global.game_section == "menu")
 {
-	but_name = "Play Game";
+	but_name = " ";
 }
 if(global.game_section == "gameover")
 {
