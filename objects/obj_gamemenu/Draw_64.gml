@@ -4,6 +4,21 @@ if(global.game_section == "game")
 	
 
 }
+ #region Button
+var _x = hrw - 50;
+if(!picked)
+{
+	draw_sprite_ext(spr_arrow, 0, _x - 38, arrow_height + 2, 1, 1, 0, c_black, 1);
+	
+	draw_sprite(spr_arrow, 0, _x - 40, arrow_height);
+}
+
+text_draw(but_name, _x , oneplayer_height, fa_left, fnt_gui, oneplayer_color);
+text_draw("Exit Game", _x , exit_height, fa_left, fnt_gui, exit_color);
+
+#endregion
+
+
 //text_draw("", hrw , hrh, fa_center, fnt_logo, c_white, 2);
 //TODO: change menu to options
 if(global.game_section == "menu" || global.game_section =="game")
@@ -18,23 +33,7 @@ if(global.game_section == "menu" || global.game_section =="game")
 		}
 	}
 }
-else
-{
-  #region Button
-var _x = hrw - 50;
-if(!picked)
-{
-	draw_sprite_ext(spr_arrow, 0, _x - 38, arrow_height + 2, 1, 1, 0, c_black, 1);
-	
-	draw_sprite(spr_arrow, 0, _x - 40, arrow_height);
-}
 
-text_draw(but_name, _x , oneplayer_height, fa_left, fnt_gui, oneplayer_color);
-text_draw("Exit Game", _x , exit_height, fa_left, fnt_gui, exit_color);
-
-#endregion
-
-}
 
 event_inherited();
 
