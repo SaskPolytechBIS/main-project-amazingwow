@@ -1,5 +1,5 @@
 /// @description 
-general_control();
+/*general_control();
 
 // Check mouse input
 if (mouse_check_button_pressed(mb_left)) {

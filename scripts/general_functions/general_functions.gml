@@ -49,7 +49,6 @@ function play_snd(_snd)
 	}
 	if(global.sound_on)
 	{
-		
 		audio_play_sound(_snd,_priority,_loop);
 	}
 
