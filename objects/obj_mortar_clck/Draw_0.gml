@@ -1,7 +1,12 @@
 /// @description Insert description here
-draw_self();
-draw_set_color(c_black);
-draw_text(x-15, y-35, string(cost));
-draw_set_color(c_white);
 
+
+if global.coins < cost {
+    draw_sprite_ext(Mortar, 1, x, y, 1, 1, 0, c_white, 1); 
+} else {
+    draw_sprite_ext(Mortar, 0, x, y, 1, 1, 0, c_white, 1); 
+}
+
+draw_set_color(c_white);
+draw_text_transformed(x, y, "$"+string(cost),2,2,0);
 

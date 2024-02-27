@@ -15,6 +15,8 @@ if(global.pause){ //draw frozen image to screen while paused
 	
 	}
 	surface_reset_target();
+	
+	
 }
 
 if (keyboard_check_pressed(vk_f9)){
@@ -39,23 +41,23 @@ if (keyboard_check_pressed(vk_f9)){
 		buffer_get_surface(pauseSurfBuffer, pauseSurf,0);
 		
 		
-		
-		//CREATE A MENU HERE
-		
-		
-		
-		
-		
-		
+		// ***** CREATE AND DRAW THE PANEL HERE *****
+        instance_create_layer(x, y, layer , obj_pause_panel); 
 		
 		
 		
 		
 		
 	}else{
-	
+		
 		global.pause = false;
 		instance_activate_all();
+		with (obj_pause_panel) {
+			 instance_destroy();
+		}
+	
+	
+		
 		if(surface_exists(pauseSurf)) surface_free(pauseSurf);
 		if(buffer_exists(pauseSurfBuffer)) buffer_delete(pauseSurfBuffer);
 	

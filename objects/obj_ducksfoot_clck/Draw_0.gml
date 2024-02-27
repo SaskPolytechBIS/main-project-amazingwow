@@ -1,7 +1,13 @@
 /// @description Insert description here
-draw_self();
-draw_set_color(c_yellow);
-draw_text(x, y, string(cost));
+
+
+if global.coins < cost {
+    draw_sprite_ext(Ducksfoot, 1, x, y, 1, 1, 0, c_white, 1); 
+} else {
+    draw_sprite_ext(Ducksfoot, 0, x, y, 1, 1, 0, c_white, 1); 
+}
+
 draw_set_color(c_white);
+draw_text_transformed(x, y, "$"+string(cost),2,2,0);
 
 

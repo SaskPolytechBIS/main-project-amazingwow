@@ -8,7 +8,7 @@ create_inst(obj_gamemenu);
 
 temp_highscore = 0;
 
-if(global._score> global.highscore)
+if(global.score> global.highscore)
 {
 	play_snd(snd_win);
 	play_snd(snd_win_ending);
