@@ -1,6 +1,6 @@
 /// @description Insert description here
 damage = 50;
-spd = 15;
+spd = 8;
 
 fade_time=5;
 fade_timer=fade_time;

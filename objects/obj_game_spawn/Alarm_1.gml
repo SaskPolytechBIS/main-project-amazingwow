@@ -4,7 +4,7 @@ if (global.lives > 1){
 		spawn_count = 0;
 		//spawn_amount *= 2;
 		brig_spawn_init += 10;
-		gunboat_spawn_init += 10;
+		gunboat_spawn_init += 5;
 		manowar_spawn_init += 2;
 		global.level++;
 		global.hp += 100;

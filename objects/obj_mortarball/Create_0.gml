@@ -1,6 +1,6 @@
 /// @description Insert description here
-damage = global.level * 2;
-spd = 8;
+damage = 10;
+spd = 20;
 
 fade_time=5;
 fade_timer=fade_time;

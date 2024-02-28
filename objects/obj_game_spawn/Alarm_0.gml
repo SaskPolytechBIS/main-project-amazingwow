@@ -10,20 +10,23 @@ var _manowar_spawn_amount = manowar_spawn_init;//fib(manowar_spawn_init);
 total_spawn_amount = _brig_spawn_amount + _gunboat_spawn_amount + _manowar_spawn_amount;
 var _manowar_spawn_count = 0;
 if(spawn_count < total_spawn_amount){
-	if (spawn_count < _manowar_spawn_amount){
-		instance_create_depth(x,y,-1,obj_enemy_manowar);
-		_manowar_spawn_count++;
-		spawn_count++;
-		alarm[0] = spawn_rate;
-	}
-	
+		
 	if (spawn_count < _brig_spawn_amount){
 		instance_create_depth(x,y,-1,obj_enemy_brig);
+		 _brig_spawn_amount++;
 		spawn_count++;
 		alarm[0] = spawn_rate;
 	}
 	if (spawn_count < _brig_spawn_amount + _gunboat_spawn_amount){
 		instance_create_depth(x,y,-1,obj_enemy_gunboat);
+		_gunboat_spawn_amount++;
+		spawn_count++;
+		alarm[0] = spawn_rate;
+	}
+	
+	if (spawn_count < _brig_spawn_amount + _gunboat_spawn_amount + _manowar_spawn_amount){
+		instance_create_depth(x,y,-1,obj_enemy_manowar);
+		_manowar_spawn_count++;
 		spawn_count++;
 		alarm[0] = spawn_rate;
 	}

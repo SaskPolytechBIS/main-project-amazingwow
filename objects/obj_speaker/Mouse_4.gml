@@ -12,5 +12,6 @@ if (global.music_on){
 else{
 	global.music_on = true;
 	image_index = 0;
-	play_snd(snd_music_bg);
+	var _bg_music = audio_play_sound(snd_music_bg, 0, false); //play_snd(snd_music_bg);
+	audio_sound_set_track_position(_bg_music, 3);
 }
