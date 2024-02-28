@@ -1,3 +1,5 @@
+hrw = 7000 ;
+hrh = 3500;
 event_inherited();
 depth = 0;
 global.game_section = "splash";

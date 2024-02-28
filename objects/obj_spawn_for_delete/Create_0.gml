@@ -13,5 +13,5 @@ global.hp = 100;
 global.spd = 10;
 global.level = 1;
 global.score = 0;
-global.coins = 100;
+//global.coins = 100;
 global.lives = 100;

@@ -4,6 +4,7 @@
   "name": "obj_ducksfootball",
   "eventList": [
     {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,},
+    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,},
   ],
   "managed": true,
   "overriddenProperties": [],
@@ -31,8 +32,8 @@
   "properties": [],
   "solid": false,
   "spriteId": {
-    "name": "spr_cannonball",
-    "path": "sprites/spr_cannonball/spr_cannonball.yy",
+    "name": "spr_ducksfootball",
+    "path": "sprites/spr_ducksfootball/spr_ducksfootball.yy",
   },
   "spriteMaskId": null,
   "visible": true,

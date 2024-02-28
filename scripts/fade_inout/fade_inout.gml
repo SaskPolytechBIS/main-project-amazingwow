@@ -47,7 +47,7 @@ function fade_inout(){
 			{
 				if(global.menuchoice == "play")
 				{
-				room_goto(rm_1);
+					room_goto(rm_game);
 				}
 				else
 				{
@@ -55,8 +55,38 @@ function fade_inout(){
 				}
 			}
 			#endregion ===================================
+			
+			// Game Section =========================
+			#region GameOver Section =========================
+			if(global.game_section == "gameover")
+			{
+				if(global.menuchoice == "exit")
+				{
+					room_goto(rm_credit);
+				}
+				else
+				{
+					room_goto(rm_game);
+				}
+			}
+			#endregion ===================================
+			#region Restart Section =========================
+			if(global.game_section == "restart")
+			{
+			
+				room_goto(rm_game);
+			
+			}
+			#endregion ===================================
+			
+			#region Credit Section =========================
+			if(global.game_section == "credit")
+			{
+				obj_creditcontrol.alarm[2] = 60;
+			}
+			#endregion ===================================
 		}
 	}
 	
-	draw_sprite_ext(spr_fade, 0, 0, 0, rw, rh, 0, c_white,global.fade_alpha )
+	draw_sprite_ext(spr_fade, 0, 0, 0, 7000,3500, 0, c_white,global.fade_alpha )
 }

@@ -49,7 +49,6 @@ function play_snd(_snd)
 	}
 	if(global.sound_on)
 	{
-		
 		audio_play_sound(_snd,_priority,_loop);
 	}
 
@@ -190,7 +189,7 @@ function getdatetime()
 	}if(myday == 6)
 	{
 		myday = "Sat";
-	}if(myday == 7)
+	}if(myday == 0)
 	{
 		myday = "Sunday";
 	}

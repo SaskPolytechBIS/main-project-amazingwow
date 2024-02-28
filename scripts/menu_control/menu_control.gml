@@ -60,19 +60,39 @@ function menu_control(){
 			
 			if(position =="playgame")
 			{
-				global.menuchoice = "play";
-				global.fade = "out";		
+				if(global.game_section=="menu")
+				{
+					global.menuchoice = "play";
+					global.fade = "out";	
+					room_goto(rm_game);
+				}
+				else if(global.game_section=="game")
+				{
+					audio_resume_all();
+					instance_activate_all();
+					instance_destroy();
+				
+				}
+				else if(global.game_section=="gameover")
+				{
+				
+					//global.game_section=="restrat";
+					global.menuchoice = "play";
+					global.fade = "out";
+				}
+				else
+				{
+					//room_goto(rm_credit);
+					global.menuchoice = "exit";
+					global.fade = "out";
+					game_end();
+				}
 			}
-			else
-			{
-				//room_goto(rm_credit);
-				global.menuchoice = "exit";
-				global.fade = "out";
-			}
-	//TODO
 		}
 	}
+		
 	#endregion
+	
 	
 		
 }
