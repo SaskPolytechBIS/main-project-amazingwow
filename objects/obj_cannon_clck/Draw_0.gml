@@ -2,7 +2,7 @@
 
 
 //draw_self();
-
+draw_set_font(fnt_gui);
 if global.coins < cost {
     draw_sprite_ext(Cannon, 1, x, y, 1, 1, 0, c_white, 1); 
 } else {

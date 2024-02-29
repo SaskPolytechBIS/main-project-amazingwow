@@ -1,6 +1,6 @@
 // Script assets have changed for v2.3.0 see
 // https://help.yoyogames.com/hc/en-us/articles/360005277377 for more information
-/*function general_control(){
+function general_control(){
 	sound_control = keyboard_check_pressed(vk_f1);
 	music_control = keyboard_check_pressed(vk_f2);
 	fullscreen = keyboard_check_pressed(vk_f10);

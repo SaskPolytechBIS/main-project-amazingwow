@@ -189,7 +189,7 @@ function getdatetime()
 	}if(myday == 6)
 	{
 		myday = "Sat";
-	}if(myday == 0)
+	}if(myday == 7)
 	{
 		myday = "Sunday";
 	}
@@ -253,7 +253,7 @@ function getdatetime()
 	if(myhour > 12)
 	{
 		myhour -= 12;
-		ampm = "PM";
+		ampm = "pm";
 	}
 	#endregion
 	

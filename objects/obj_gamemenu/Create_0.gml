@@ -22,15 +22,15 @@ global.menuchoice = "";
 
 if(global.game_section == "menu")
 {
-	but_name = "Play Game";
+    but_name = "Play Game";
 }
-if(global.game_section == "gameover")
-{
-	but_name = "Play Again";
-}
+//if(global.game_section == "gameover")
+//{
+//    but_name = "Play Again";
+//}
 if(global.game_section == "game")
 {
-	but_name = "Resume Game";
+    but_name = "Resume Game";
 }
 
 

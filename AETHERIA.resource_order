@@ -88,6 +88,7 @@
     {"name":"obj_bullet_particle","order":1,"path":"objects/obj_bullet_particle/obj_bullet_particle.yy",},
     {"name":"spr_mortarball","order":2,"path":"sprites/spr_mortarball/spr_mortarball.yy",},
     {"name":"Cannon","order":4,"path":"sprites/Cannon/Cannon.yy",},
+    {"name":"obj_menu_play_button50","order":1,"path":"objects/obj_menu_play_button50/obj_menu_play_button50.yy",},
     {"name":"obj_pause_panel","order":5,"path":"objects/obj_pause_panel/obj_pause_panel.yy",},
     {"name":"fade_inout","order":3,"path":"scripts/fade_inout/fade_inout.yy",},
     {"name":"Mortar","order":5,"path":"sprites/Mortar/Mortar.yy",},

@@ -3,8 +3,8 @@
   "resourceVersion": "1.0",
   "name": "snd_lose_ohoh",
   "audioGroupId": {
-    "name": "sounds",
-    "path": "audiogroups/sounds",
+    "name": "audiogroup_default",
+    "path": "audiogroups/audiogroup_default",
   },
   "bitDepth": 1,
   "bitRate": 128,

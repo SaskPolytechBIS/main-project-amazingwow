@@ -192,6 +192,7 @@
     {"id":{"name":"obj_button_info","path":"objects/obj_button_info/obj_button_info.yy",},},
     {"id":{"name":"obj_mortarball","path":"objects/obj_mortarball/obj_mortarball.yy",},},
     {"id":{"name":"Cannon","path":"sprites/Cannon/Cannon.yy",},},
+    {"id":{"name":"obj_menu_play_button50","path":"objects/obj_menu_play_button50/obj_menu_play_button50.yy",},},
     {"id":{"name":"obj_enemy_parent","path":"objects/obj_enemy_parent/obj_enemy_parent.yy",},},
     {"id":{"name":"obj_pause_panel","path":"objects/obj_pause_panel/obj_pause_panel.yy",},},
     {"id":{"name":"obj_spawn_for_delete","path":"objects/obj_spawn_for_delete/obj_spawn_for_delete.yy",},},

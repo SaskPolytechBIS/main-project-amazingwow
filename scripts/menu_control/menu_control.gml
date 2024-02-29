@@ -68,7 +68,7 @@ function menu_control(){
 				}
 				else if(global.game_section=="game")
 				{
-					audio_resume_all();
+					
 					instance_activate_all();
 					instance_destroy();
 				
